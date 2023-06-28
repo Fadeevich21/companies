@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="20dp"
+    android:paddingTop="10dp">
+
+    <com.example.companies.ui.view.CustomNavigationButton
+        android:id="@+id/all_companies"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:subtitle="Посмотрите все компании"
+        android:title="Все компании"
+        app:cardCornerRadius="17.5dp"
+        app:layout_constraintEnd_toStartOf="@id/reviews"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.companies.ui.view.CustomNavigationButton
+        android:id="@+id/reviews"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:subtitle="Содержит аналитические обзоры компаний"
+        android:title="Обзоры"
+        app:cardCornerRadius="17.5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/all_companies"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.companies.ui.view.CustomNavigationButton
+        android:id="@+id/analysis_reports"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:subtitle="Квартальные и годовые отчёты компаний"
+        android:title="Анализ отчётов"
+        app:cardCornerRadius="17.5dp"
+        app:layout_constraintEnd_toEndOf="@id/all_companies"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/all_companies" />
+
+    <com.example.companies.ui.view.CustomNavigationButton
+        android:id="@+id/favorite_companies"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:subtitle="Компании, которые вы отметили"
+        android:title="Мои компании"
+        app:cardCornerRadius="17.5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@id/reviews"
+        app:layout_constraintTop_toBottomOf="@id/reviews" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

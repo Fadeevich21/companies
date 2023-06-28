@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Dark Theme -->
+    <color name="app_bar">#1C1E30</color>
+    <color name="background">#131524</color>
+    <color name="cardview_backgroundTint">#292B3A</color>
+    <color name="text">#FFFFFF</color>
+    <color name="subtext">#AFAFAF</color>
 </resources>
