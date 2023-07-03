@@ -43,7 +43,7 @@ class MainFragment : Fragment() {
 
     private fun setUpBinding() {
         setUpButtons()
-        setUpObservers()
+        setUpObserves()
     }
 
     private fun setUpButtons() {
@@ -55,7 +55,7 @@ class MainFragment : Fragment() {
         }
     }
 
-    private fun setUpObservers() {
+    private fun setUpObserves() {
         setUpObserveActionNavigate()
     }
 

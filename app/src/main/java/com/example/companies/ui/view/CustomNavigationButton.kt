@@ -13,10 +13,9 @@ class CustomNavigationButton(
 ) : CardView(context, attributeSet) {
 
     private val binding =
-        CustomNavigationButtonBinding.inflate(LayoutInflater.from(context), this, false)
+        CustomNavigationButtonBinding.inflate(LayoutInflater.from(context), this)
 
     init {
-        addView(binding.root)
         val typedArray = context.theme.obtainStyledAttributes(
             attributeSet,
             R.styleable.CustomNavigationButton,

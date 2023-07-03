@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">companies</string>
+    <string name="subtitle_example">Subtitle</string>
+    <string name="title_example">Title</string>
+    <string name="all_companies_title">Все компании</string>
+    <string name="all_companies_subtitle">Посмотрите все компании</string>
+    <string name="reviws_subtitle">Содержит аналитические обзоры компаний</string>
+    <string name="reviews_title">Обзоры</string>
+    <string name="analysis_reports_subtitle">Квартальные и годовые отчёты компаний</string>
+    <string name="analysis_reports_title">Анализ отчётов</string>
+    <string name="favorite_companies_subtitle">Компании, которые вы отметили</string>
+    <string name="favorite_companies_title">Мои компании</string>
+    <string name="main_title">Главная</string>
 </resources>

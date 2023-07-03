@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/action_main"
         android:name="com.example.companies.ui.fragment.main.MainFragment"
-        android:label="action main"
+        android:label="@string/main_title"
         tools:layout="@layout/fragment_main" />
 
 </navigation>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    app:cardBackgroundColor="@color/cardview_backgroundTint"
-    android:foreground="?android:attr/selectableItemBackground">
+    android:foreground="?android:attr/selectableItemBackground"
+    tools:parentTag="androidx.cardview.widget.CardView">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,7 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"
             android:gravity="center_horizontal"
-            android:text="Title"
+            android:text="@string/title_example"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -29,11 +29,11 @@
             android:layout_height="wrap_content"
             android:gravity="center_horizontal"
             android:paddingHorizontal="10dp"
-            android:text="Subtitle"
+            android:text="@string/subtitle_example"
             android:textColor="@color/subtext"
             android:textFontWeight="300"
             android:textSize="16sp" />
 
     </LinearLayout>
 
-</androidx.cardview.widget.CardView>
+</merge>
