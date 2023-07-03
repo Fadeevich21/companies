@@ -1,0 +1,62 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Ford – проблемная эпоха перерождения",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Будущая прибыльность может оказаться под давлением из-за постоянно растущих издержек",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "2️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/32E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Несмотря на впечатляющие результаты по развитию EV направления, чрезмерная конкуренция может снизить рыночную долю ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "3️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/33E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Недостаток производственных мощностей приводит к потере клиентов",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-06-17T06:45:00+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Albemarle Corporation разбор #ALB",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Компанию связывают с бумом электромобилей, ведь она производит химические компоненты для аккумуляторов, необходимые для EV. Сегодня разберемся в деталях бизнеса, затронем рынок лития, а также узнаем, каковы перспективы ALbemarle.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Читайте по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-01-12T11:00:47+00:00"
+}

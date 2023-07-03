@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "emoji": "📢",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F93A2.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Алроса экспресс обзор",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#ALRS",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " О компании",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Алроса – мировой лидер по объему добычи алмазов (32,4 млн карат в 2021), занимающий более 90% рынка алмазно-бриллиантовой продукции РФ. Общие запасы в 2020 оценивались в 620 млн карат – 35% всех запасов алмазов в мире.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке:",
+      "type": "boldText"
+    }
+  ],
+  "date": "2023-01-13T09:42:00+00:00"
+}

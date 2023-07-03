@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Airbnb – путь к прибыльности",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "У Airbnb огромный адресный рынок, на котором она занимает всё бОльшую долю, отнимая её у традиционных гостиниц",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Отрасль стремительно восстанавливается после COVID-19, а ABNB делает это успешнее других",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "2️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/32E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Несмотря на пандемию, бизнес растёт ускоренными темпами и уже в этом году может стать безубыточным",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "3️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/33E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Компания стремительно укрепляет баланс, улучшает маржинальность и при этом продолжает наращивать инвестиции в бизнес",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-04-18T11:00:05+00:00"
+}

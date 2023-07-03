@@ -1,0 +1,62 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Baidu – китайский Google с кучей «но».",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Индустрия искусственного интеллекта и облачных данных является высококонкурентной, Baidu тяжело наращивать собственную долю.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "2️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/32E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Сложная корпоративная структура, регуляторное давление и китайская регистрация создают множество рисков.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "3️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/33E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Проекты в области AI убыточны, и бизнес по-прежнему зависим от рекламных доходов.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке:",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-07-13T11:14:09+00:00"
+}
