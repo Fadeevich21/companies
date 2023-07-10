@@ -1,0 +1,163 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Roku – наращивает инвестиции и может закрыть 2022 год в убыток",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": " #ROKU",
+      "type": "boldText"
+    },
+    {
+      "data": "-24%",
+      "type": "boldText"
+    },
+    {
+      "data": " после выхода отчетности",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 865,3 m$ (-3,2% к прогнозу, +31,1% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль 23,68 m$ (-65% г/г) ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS 0,17$ (+183% к прогнозу, -65,3% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Platform – 703,5 m$ (+49% г/г, 81% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Player – 161,7 m$ (-9% г/г, 73% выручки) (+8% г/г, 19% выручки полупроводников)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Активные аккаунты – 60,1 m$ (+17 г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "ARPU (cредняя выручка на пользователя) – 41,03$ (+43% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Часы потокового вещания – 19,5 b (+15% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#отчетность",
+      "type": "regularText"
+    }
+  ],
+  "date": "2022-02-21T05:15:00+00:00"
+}

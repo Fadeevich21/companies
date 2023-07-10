@@ -1,0 +1,128 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "TotalEnergies - возможное снижение цен, откроет уникальную возможность инвестиционного входа",
+      "type": "boldText"
+    },
+    {
+      "data": "#TTE ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": " ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 60,35 b$ (+5,62% к прогнозу, +59% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль non-GAAP 6,8 b$ (+423% г/г) ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS non-GAAP 2,55$ (+12,8% к прогнозу, +454% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Переработка и Химикаты – 24,78 b$ (+64% г/г, 41% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Маркетинг и Услуги – 21,85 b$ (+33% г/г, 36% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Газ, Возобновляемые источники, Энергия – 11,63 b$ (+122% г/г, 20% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Разведка и добыча – 2,07 b$ (+65% г/г, 3% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-03-29T05:15:00+00:00"
+}

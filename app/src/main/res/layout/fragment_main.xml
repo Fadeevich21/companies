@@ -15,16 +15,16 @@
         android:title="@string/all_companies_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
         app:cardCornerRadius="17.5dp"
-        app:layout_constraintEnd_toStartOf="@id/reviews"
+        app:layout_constraintEnd_toStartOf="@id/reports"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.example.companies.ui.view.CustomNavigationButton
-        android:id="@+id/reviews"
+        android:id="@+id/reports"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:subtitle="@string/reviws_subtitle"
-        android:title="@string/reviews_title"
+        android:subtitle="@string/reports_subtitle"
+        android:title="@string/reports_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
         app:cardCornerRadius="17.5dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -32,12 +32,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <com.example.companies.ui.view.CustomNavigationButton
-        android:id="@+id/analysis_reports"
+        android:id="@+id/company_analysis_info"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:subtitle="@string/analysis_reports_subtitle"
-        android:title="@string/analysis_reports_title"
+        android:subtitle="@string/company_analysis_info_subtitle"
+        android:title="@string/company_analysis_info_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
         app:cardCornerRadius="17.5dp"
         app:layout_constraintEnd_toEndOf="@id/all_companies"
@@ -54,7 +54,7 @@
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
         app:cardCornerRadius="17.5dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="@id/reviews"
-        app:layout_constraintTop_toBottomOf="@id/reviews" />
+        app:layout_constraintStart_toStartOf="@id/reports"
+        app:layout_constraintTop_toBottomOf="@id/reports" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,178 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Freeport-McMoRan - основная проблема — это сложно прогнозируемые цены на медь",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": " ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#FCX-5% после выхода отчетности",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": " ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 6,6 b$ (+4,9% к прогнозу, +36,1% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль non-GAAP 1,56 b$ (+107% г/г) ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS non-GAAP 1,07$ (+27% к прогнозу, +110% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам",
+      "type": "boldText"
+    },
+    {
+      "data": ":",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Индонезия добыча – 2,32 b$ (+68% г/г, 35% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Медный стержень и переработка – 1,74 b$ (+33% г/г, 26% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Южная Америка добыча – 1,26 b$ (+16% г/г, 19% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Атлантика медь и переработка – 0,72 b$ (+4% г/г, 11% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Корпоративный и прочее – 0,4 b$ (+17% г/г, 6% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Медные рудники Северной Америки – 0,14 b$ (+2,5% г/г, 3% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке: ",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-04-27T11:00:05+00:00"
+}

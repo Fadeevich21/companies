@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Pfizer – разбираемся, как компания будет замещать «ковидную» выручку в ближайшие годы ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отрасль – фармацевтика. Одна из крупнейших биофармацевтических компаний, разрабатывает обширный спектр препаратов для различных сфер применения, включая онкологию, иммунологию и кардиологию. Флагманскими продуктами в настоящее время являются вакцины против COVID-19: Paxlovid и Comirnaty. ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#PFE",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность за Q3’22",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 22,64 b$ (+6,1% к прогнозу, -5,8% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль non-GAAP 10,17 b$ (+39,7% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS non-GAAP 1,78$ (+23,6% к прогнозу, +40,2% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке:",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-12-12T09:42:00+00:00"
+}

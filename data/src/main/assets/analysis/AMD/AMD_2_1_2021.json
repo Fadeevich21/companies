@@ -1,0 +1,372 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "AMD разбор по выбору подписчиков",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Разбираем одного из лучших представителей полупроводниковой отрасли. Компания постепенно отнимает долю у главного конкурента Intel, и выходит на новые рынки: дата-центры, игровые консоли. Котировки выросли за 5 лет на невероятные 4087% и при этом у AMD все еще отличные перспективы развития.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "О компании",
+      "type": "boldText"
+    },
+    {
+      "emoji": "🗒",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F9792.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🇺🇸",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F87BAF09F87B8.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "AMD",
+      "type": "boldText"
+    },
+    {
+      "data": " – американская компания из отрасли производителей полупроводников. Компания только разрабатывает и проектирует чипы, а для производства использует аутсорсинговые услуги. Компания основа в 1969 году, на IPO вышла в 1990 году.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Тикер #AMD",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Сегменты выручки",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Computing and Graphics – чипы, устанавливаемые в персональных компьютерах и игровых консолях",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Enterprise, Embedded and Semi-Custom - серверные процессоры (Дата-центры)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Computing and Graphics – 1.96b$ (+18% г/г, 60% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Enterprise, Embedded and Semi-Custom – 1.28b$ (+176% г/г, 40% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Финансовые показатели",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Капитализация 107b $",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " За 5 лет котировки выросли на 4087%, отрасль выросла на 347% (оба показателя с учетом дивидендов)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " За год акции выросли на 79,4%, отрасль выросла на 52,6%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/E 41,6 среднее по отрасли 42,2",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/S 10,96",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/B 18,1 среднее по отрасли 4,2",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Выручка за 5 лет выросла на 128,5%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Прибыль за аналогичный период выросла на 350%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "⛔️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29B94.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Долг низкий. Debt/Equity составляет 5,7%. Ликвидные средства 2,3b$, Долг 330m$.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Дивиденды отсутствуют",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность (26 января) ",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 3.24b$ (+7.8% к прогнозу) (+52.5% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль 1.78b$ (+948% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS 0.52$ (+4% к прогнозу)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Преимущества ",
+      "type": "boldText"
+    },
+    {
+      "emoji": "👍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F918D.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Победа над главным конкурентом",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "В последнее 5 лет AMD активно пользуется слабостью Intel, и распространяет свои чипы на многих рынках. Выпуск 10-нанометровых чипов Intel постоянно откладывался, но даже после коммерциализации в 2019 году произошли сбои в производстве при неграмотном прогнозировании спроса. Компания планирует устранить неполадки в середине 2021 года, но до этого момента AMD продолжит свою экспансию на рынке.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "В период слабости конкурента, AMD выпускает микроархитектуру Zen 3, которая помогла увеличить IPC (Межпроцессное взаимодействие) на 19% для настольных ПК, по сравнению с предыдущей архитектурой. Проще говоря, чипы на базе новой архитектуры могут выполнять больше задач за один цикл благодаря усовершенствованному производственному процессу.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Кроме того, компания уже давно выпустила 7-нм процессоры для настольных ПК, которые намного эффективнее предыдущих версий устройств. Это позволяет завышать цены на товары по сравнению со средним по рынку.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Согласно данным немецкого розничного продавца электронной коммерции Mindfactory, AMD полностью обвалила продажи Intel в прошлом году. 83% всех процессоров, произведенных на платформе, принадлежат AMD. Средняя цена (ASP) четырех лучших процессоров AMD в декабре составила 386,45 $, что на 14,9% больше, чем в ноябре и выше на 32,2% чем всентябре 2019 года. Intel же наоборот уменьшает цену для более конкурентного предложения. Средняя цена продажи четырех ведущих процессоров в декабре 2020 года составила 302,85$, что на 10,5% меньше, чем в ноябре 2020 года, и на 21,7% меньше, чем в сентябре 2019 года.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔜",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F949C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Продолжение в следующем посте",
+      "type": "boldText"
+    }
+  ],
+  "date": "2021-02-01T11:04:03+00:00"
+}

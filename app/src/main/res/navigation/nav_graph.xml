@@ -9,6 +9,25 @@
         android:id="@+id/action_main"
         android:name="com.example.companies.ui.fragment.main.MainFragment"
         android:label="@string/main_title"
-        tools:layout="@layout/fragment_main" />
+        tools:layout="@layout/fragment_main">
+        <action
+            android:id="@+id/action_action_main_to_action_all_companies"
+            app:destination="@id/action_all_companies" />
+        <action
+            android:id="@+id/action_action_main_to_action_reports"
+            app:destination="@id/action_reports" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/action_all_companies"
+        android:name="com.example.companies.ui.fragment.allCompanies.AllCompaniesFragment"
+        android:label="@string/all_companies_title"
+        tools:layout="@layout/fragment_all_companies" />
+
+    <fragment
+        android:id="@+id/action_reports"
+        android:name="com.example.companies.ui.fragment.reports.ReportsFragment"
+        android:label="@string/reports_title"
+        tools:layout="@layout/fragment_reports" />
 
 </navigation>

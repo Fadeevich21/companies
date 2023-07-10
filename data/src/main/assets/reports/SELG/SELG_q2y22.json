@@ -1,0 +1,83 @@
+{
+  "content": [
+    {
+      "emoji": "🇷🇺",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F87B7F09F87BA.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Селигдар – ставка на вольфрам и олово ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отрасль – полезные ископаемые, добыча. Пятый по запасам золотодобытчик России. Также занимается разведкой и добычей олова, вольфрама серебра и производством концентратов, единственный в стране поставщик промышленного рудного олова.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#SELG",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность за H1’22",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Выручка 11,58 млрд. ₽ (+2,4% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Чистая прибыль 10,71 млрд. ₽ (+184,5% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " EPS 10,61 ₽ (+146,2% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Полный разбор по ссылке: ",
+      "type": "regularText"
+    }
+  ],
+  "date": "2022-11-25T10:12:00+00:00"
+}

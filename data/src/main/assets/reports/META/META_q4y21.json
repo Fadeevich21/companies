@@ -1,0 +1,137 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Meta Platforms – 225b $ капитализации испарились за ночь. Такой обвал зацепил весь рынок. Разбираемся, стоит ли выкупать просадку.",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "#FB",
+      "type": "boldText"
+    },
+    {
+      "data": "-24%",
+      "type": "boldText"
+    },
+    {
+      "data": " после выхода отчетности",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 33,67 b$ (+0,7% к прогнозу, +20% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль 10,28b$ (-8,4% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS 3,67$ (-4,2% к прогнозу, -5,4% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Семейство приложений (FOA) – 32,79 b$ (+19,9% г/г, 97% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Лаборатории реальности (RL) – 0,88 b$ (+22% г/г, 3% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📊",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938A.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Выручка за весь 2021 год составила 117,9 b$ (+37% г/г), чистая прибыль 39,37 b$ (+35% г/г), EPS 13,77$ (+36% г/г), операционные доходы 46,7 b$ (+43% г/г), маржа операционной прибыли 40% (+200 п. г/г), общие затраты и расходы 71,18 (+34% г/г), FCF 38,44 (+67% г/г), денежные средства и их эквиваленты 48 b$ (-22,5% г/г), компенсация на основе акций 9,16 (+40% г/г). DAU (ежедневные активные пользователи) 1,93 b (+5% г/г), MAU (ежемесячные активные пользователи) 2,91 b (+4% г/г) человек, DAP (ежедневные активные пользователи \"семейства приложений\") 2,82 b (+8% г/г). Выкупили акции на 44,8 b$, осталось 38,8 b$ разрешённых на выкуп. ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Читайте по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-02-03T11:27:00+00:00"
+}

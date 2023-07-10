@@ -49,8 +49,8 @@ class MainFragment : Fragment() {
     private fun setUpButtons() {
         binding.apply {
             allCompanies.setOnClickListener { viewModel.onClickAllCompaniesListener() }
-            reviews.setOnClickListener { viewModel.onClickReviewsListener() }
-            analysisReports.setOnClickListener { viewModel.onClickAnalysisReportsListener() }
+            reports.setOnClickListener { viewModel.onClickReportsListener() }
+            companyAnalysisInfo.setOnClickListener { viewModel.onClickCompanyAnalysisInfoListener() }
             favoriteCompanies.setOnClickListener { viewModel.onClickFavoriteCompaniesListener() }
         }
     }

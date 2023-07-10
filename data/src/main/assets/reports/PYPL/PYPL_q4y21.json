@@ -1,0 +1,148 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "PayPal - слабый прогноз обрушил котировки",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " #PYPL",
+      "type": "boldText"
+    },
+    {
+      "data": "-24%",
+      "type": "boldText"
+    },
+    {
+      "data": " после выхода отчетности",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность ",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 6,92 b$ (+0,4% к прогнозу, +13,1% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль 1,32 b$ (+3,1 г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS 1,11$ (-1% к прогнозу, +2,8% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Выручка по сегментам:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "U.S. – 3,9 b$ (+27% г/г, 56% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "International – 3,02 b$ ( -1% г/г, 44% выручки)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📊",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938A.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Выручка за весь 2021 год составила 25,4 b$ (+17% г/г), чистая прибыль 5,45 b$ (+18,5% г/г), EPS 4,6$ (+18% г/г), операционные доходы 6,3 b$ (+16,7% г/г), маржа операционной прибыли 25% (+0 г/г), FCF 5,43 b$ (+8,9% г/г), компенсация на основе акций 1,54 b$ (+4,8% г/г), кэш 5,2 b$ (+8,6% г/г), долг 8,05 b$ (-10% г/г). Общее количество счетов 426 m (+13% г/г), новые активные счета 48,9 m (-33% г/г), общий объём платежей (TPV) 1,25 t (+31% г/г). Выкупили акций на 3,4 b$.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Читайте по ссылке",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#отчетность",
+      "type": "regularText"
+    }
+  ],
+  "date": "2022-02-03T05:15:00+00:00"
+}
