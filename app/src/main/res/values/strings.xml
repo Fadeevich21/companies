@@ -4,11 +4,17 @@
     <string name="title_example">Title</string>
     <string name="all_companies_title">Все компании</string>
     <string name="all_companies_subtitle">Посмотрите все компании</string>
-    <string name="reviws_subtitle">Содержит аналитические обзоры компаний</string>
-    <string name="reviews_title">Обзоры</string>
-    <string name="analysis_reports_subtitle">Квартальные и годовые отчёты компаний</string>
-    <string name="analysis_reports_title">Анализ отчётов</string>
+    <string name="reports_subtitle">Содержит аналитические обзоры компаний</string>
+    <string name="reports_title">Обзоры</string>
+    <string name="company_analysis_info_subtitle">Квартальные и годовые отчёты компаний</string>
+    <string name="company_analysis_info_title">Анализ отчётов</string>
     <string name="favorite_companies_subtitle">Компании, которые вы отметили</string>
     <string name="favorite_companies_title">Мои компании</string>
     <string name="main_title">Главная</string>
+    <string name="company_logo">company logo</string>
+    <string name="company_name_example">Name</string>
+    <string name="company_ticker_example">Ticker</string>
+    <string name="company_reports_number_example">Отчёты: 0</string>
+    <string name="company_analysis_info_example">Аналитические обзоры: 0</string>
+    <string name="report_date_example">date</string>
 </resources>

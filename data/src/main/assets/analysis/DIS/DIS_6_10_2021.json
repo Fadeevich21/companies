@@ -1,0 +1,546 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Walt Disney разбор",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "2020 год для рынка медиа и телекоммуникационных услуг стал в некоторой степени переломным: пандемия поспособствовала бурному росту количества зрителей телеканалов и подписчиков онлайн-кинотеатров, а, следовательно, и росту прибыли. Если выгоды, например, для Netflix очевидны, то для Disney всё сложнее: компания выиграла от роста выручки со своих стриминговых сервисов на 81%, но одновременно потеряла почти 40% доходов от парков развлечений и ритейла, которые являются одними из главных источников денежных потоков. Тем не менее, пандемия рано или поздно кончится, а операционная деятельность вернётся в нормальное состояние. Котировки компании уже полностью восстановились и обновили исторические максимумы, в связи с чем возникает вопрос о том, насколько справедлива и оправданна текущая рыночная оценка компании?",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Тикер #DIS",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "О компании",
+      "type": "boldText"
+    },
+    {
+      "emoji": "🗒",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F9792.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🇺🇸",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F87BAF09F87B8.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "The Walt Disney Company",
+      "type": "boldText"
+    },
+    {
+      "data": " – одна из крупнейших мировых корпораций в индустрии медиа и развлечений. Основанная в 1923 году как небольшая анимационная студия, сегодня она входит в топ-30 компаний мира по капитализации и располагает огромными ресурсами.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Disney – это:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " 4 огромных тематических парка, 2 аквапарка, сеть отелей на более чем 30 000 номеров и собственная круизная линия, а также кафе и рестораны.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " 4 стриминговых сервиса и 7 брендов телеканалов с общим охватом аудитории в 1,2 млрд зрителей по всему миру, 8 собственных телевизионных станций в США, несколько крупнейших всемирно известных теле-, кино- и анимационных студий.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Более 300 собственных магазинов на разных континентах + интернет-магазин.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Сегменты выручки",
+      "type": "boldText"
+    },
+    {
+      "data": " (58,3 b$ за последние 12 месяцев, -25,5% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Медиаконтент (TV каналы на территории США) – 44% (+1% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Стриминговые сервисы и зарубежные TV каналы – 30,8% (+29,5% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Парки развлечений и фирменная продукция – 15,4% (-62% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Кино-, теле- и анимационные студии – 9,8% (-53% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Финансовые показатели",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Капитализация 320 b$",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " За 5 лет котировки выросли на 81%, отрасль на 143% (с учётом дивидендов 92% и 153%)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " За год акции выросли на 41%, отрасль на 47%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/E -71,2, среднее по отрасли 37,5",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/S 5,5",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " P/B 3,7, среднее по отрасли 5",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Выручка за 5 лет выросла на 6,4%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Прибыль за аналогичный период упала на 149%",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "⛔️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29B94.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Долг ниже среднерыночного. Debt/Equity составляет 56,6%. Ликвидные средства 15,9 b$, долг 56,1 b$.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "❇️",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/E29D87.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Дивиденды не выплачиваются с января 2020, прогнозный уровень на следующий год 1%.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Прогноз компании на третий квартал 2021 года",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Снижение выручки на 3% до 67,8 b$",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Рост чистой прибыли с -1,345 b$ до 2,397 b$",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Преимущества ",
+      "type": "boldText"
+    },
+    {
+      "emoji": "👍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F918D.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Огромные медиаресурсы",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Медиабизнес Disney состоит из ряда телеканалов, стриминговых сервисов и теле-, кино- и анимационных студий",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "В распоряжении компании находятся ",
+      "type": "regularText"
+    },
+    {
+      "data": "телеканалы:",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Детские и подростковые Disney Channel (85m зрителей в США и 196m в мире), Disney Junior (66m и 166m), Disney XD(66m, 105m)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Спортивный ESPN (~80m, 53m).",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Freeform (только в США, 85m).",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "FX (только в США, 86m).",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Fox (только за пределами США, 201m).",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "National Geographic (85m, 317m).",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Телевизионная студия ABC, покрывающая всю территорию США и входящая в «большую тройку».",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Студии",
+      "type": "boldText"
+    },
+    {
+      "data": ":",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Анимационные студии Walt Disney Pictures и Pixar.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Киностудии Marvel, Lucasfilm и 20 centuries studious.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Стриминговые сервисы",
+      "type": "boldText"
+    },
+    {
+      "data": ":",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Disney+ (103m подписчиков)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "ESPN+ (13.8m подписчиков)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "📍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Hulu (41.6m подписчиков)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Такое количество активов позволяет компании занимать более чем устойчивое положение в индустрии медиа, генерируя стабильные доходы.",
+      "type": "regularText"
+    }
+  ],
+  "date": "2021-06-10T12:38:28+00:00"
+}

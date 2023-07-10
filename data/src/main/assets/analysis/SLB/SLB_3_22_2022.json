@@ -1,0 +1,42 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Разбор Schlumberger ",
+      "type": "boldText"
+    },
+    {
+      "data": "$SLB",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " JPMorgan предрекает начало нового суперцикла сырьевых товаров, в том числе нефти. С начала года WTI выросла на 35%, Schlumberger – на 25%, в то время как S\u0026P500 упал на 7%. Есть ли еще потенциал для роста? Ответ в нашем сегодняшнем разборе.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-03-22T11:00:09+00:00"
+}

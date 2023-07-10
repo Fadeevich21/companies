@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Velodyne Lidar разбор",
+      "type": "boldText"
+    },
+    {
+      "data": " #VLDR",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Velodyne Lidar является одним из лидеров на быстрорастущем рынке лидаров. Но с начала года акции компании обвалились более чем на 70%. Каковы причины такой мощной коррекции? Насколько VLDR близка к справедливой цене?",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Читайте по ссылке ",
+      "type": "boldText"
+    }
+  ],
+  "date": "2021-10-11T11:03:00+00:00"
+}

@@ -1,0 +1,74 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Alphabet –вероятный кандидат на звание крупнейшей по капитализации компании к 2030 году ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Аннотация ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Alphabet – признанный лидер в интернет- и рекламном бизнесе с многомиллиардной пользовательской базой",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "2️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/32E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " При своих огромных масштабах компания сохраняет впечатляющую динамику доходов",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "3️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/33E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Мультипликаторы трудно назвать низкими, но они на минимумах за 5 лет и выглядят привлекательнее, чем у конкурентов",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-06-22T11:00:04+00:00"
+}

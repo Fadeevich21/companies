@@ -1,0 +1,7139 @@
+{
+  "companies": [
+    {
+      "id": "MMM",
+      "name": "3M",
+      "ticker": "MMM",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/12/2021",
+          "url": "assets/analysis/MMM/MMM_8_12_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ABRD",
+      "name": "Абрау-Дюрсо",
+      "ticker": "ABRD",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AKRN",
+      "name": "Акрон",
+      "ticker": "AKRN",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/29/2021",
+          "url": "assets/analysis/AKRN/AKRN_9_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ALRS",
+      "name": "Алроса",
+      "ticker": "ALRS",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/26/2022",
+          "url": "assets/analysis/ALRS/ALRS_5_26_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "1/13/2023",
+          "url": "assets/reports/ALRS/ALRS_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "AFKS",
+      "name": "АФК Система",
+      "ticker": "AFKS",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AFLT",
+      "name": "Аэрофлот",
+      "ticker": "AFLT",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BSPB",
+      "name": "Банк Санкт-Петербург",
+      "ticker": "BSPB",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BANE",
+      "name": "Башнефть",
+      "ticker": "BANE",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BELU",
+      "name": "Белуга Групп",
+      "ticker": "BELU",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VSMO",
+      "name": "ВСМПО-АВИСМА",
+      "ticker": "VSMO",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VTBR",
+      "name": "ВТБ",
+      "ticker": "VTBR",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GAZP",
+      "name": "Газпром ",
+      "ticker": "GAZP",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/20/2022",
+          "url": "assets/analysis/GAZP/GAZP_4_20_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "9/15/2022",
+          "url": "assets/reports/GAZP/GAZP_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "SIBN ",
+      "name": "Газпром нефть ",
+      "ticker": "SIBN ",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SMLT",
+      "name": "ГК Самолет",
+      "ticker": "SMLT",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "7/8/2022",
+          "url": "assets/reports/SMLT/SMLT_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "GMKN",
+      "name": "ГМК Норильский Никель",
+      "ticker": "GMKN",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/22/2021",
+          "url": "assets/analysis/GMKN/GMKN_12_22_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "8/9/2022",
+          "url": "assets/reports/GMKN/GMKN_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "FESH",
+      "name": "ДВМП",
+      "ticker": "FESH",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "7/19/2022",
+          "url": "assets/reports/FESH/FESH_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "DSKY",
+      "name": "Детский мир",
+      "ticker": "DSKY",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/13/2022",
+          "url": "assets/analysis/DSKY/DSKY_1_13_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "5/20/2022",
+          "url": "assets/reports/DSKY/DSKY_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "GEMC",
+      "name": "Евромедцентр",
+      "ticker": "GEMC",
+      "country": "Россия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "EELT",
+      "name": "Европейская Электротехника",
+      "ticker": "EELT",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ISIN",
+      "name": "Интер РАО ЕЭС",
+      "ticker": "ISIN",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ISKJ",
+      "name": "ИСКЧ",
+      "ticker": "ISKJ",
+      "country": "Россия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KZOS",
+      "name": "Казаньоргсинтез",
+      "ticker": "KZOS",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KAZT",
+      "name": "КуйбышевАзот",
+      "ticker": "KAZT",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "8/25/2022",
+          "url": "assets/reports/KAZT/KAZT_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "LNTA",
+      "name": "Лента",
+      "ticker": "LNTA",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LSNGP",
+      "name": "Ленэнерго",
+      "ticker": "LSNGP",
+      "country": "Россия",
+      "sector": "Коммунальные услуги",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "11/2/2022",
+          "url": "assets/reports/LSNGP/LSNGP_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "LSRG",
+      "name": "ЛСР",
+      "ticker": "LSRG",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LKOH",
+      "name": "Лукойл",
+      "ticker": "LKOH",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MVID",
+      "name": "М. Видео",
+      "ticker": "MVID",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MGNT",
+      "name": "Магнит",
+      "ticker": "MGNT",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "10/17/2022",
+          "url": "assets/reports/MGNT/MGNT_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "MDMG",
+      "name": "Мать и дитя",
+      "ticker": "MDMG",
+      "country": "Россия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/30/2021",
+          "url": "assets/analysis/MDMG/MDMG_12_30_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MTLR",
+      "name": "Мечел",
+      "ticker": "MTLR",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MAGN",
+      "name": "ММК",
+      "ticker": "MAGN",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/10/2022",
+          "url": "assets/analysis/MAGN/MAGN_6_10_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MOEX",
+      "name": "Московская биржа",
+      "ticker": "MOEX",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/11/2022",
+          "url": "assets/analysis/MOEX/MOEX_1_11_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CBOM",
+      "name": "Московский кредитный банк",
+      "ticker": "CBOM",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MTSS ",
+      "name": "МТС",
+      "ticker": "MTSS ",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "11/9/2022",
+          "url": "assets/reports/MTSS /MTSS _q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "NFAZ",
+      "name": "НЕФАЗ",
+      "ticker": "NFAZ",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/21/2021",
+          "url": "assets/analysis/NFAZ/NFAZ_5_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NKNCP",
+      "name": "Нижнекамскнефтехим",
+      "ticker": "NKNCP",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NLMK",
+      "name": "НЛМК",
+      "ticker": "NLMK",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NMTP",
+      "name": "НМТП",
+      "ticker": "NMTP",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NVTK",
+      "name": "НОВАТЭК",
+      "ticker": "NVTK",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/22/2021",
+          "url": "assets/analysis/NVTK/NVTK_10_22_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PIKK",
+      "name": "ПИК",
+      "ticker": "PIKK",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PLZL",
+      "name": "Полюс",
+      "ticker": "PLZL",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/28/2022",
+          "url": "assets/analysis/PLZL/PLZL_3_28_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "9/27/2022",
+          "url": "assets/reports/PLZL/PLZL_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "RASP",
+      "name": "Распадская",
+      "ticker": "RASP",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "4/1/2022",
+          "url": "assets/reports/RASP/RASP_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ROSN",
+      "name": "Роснефть",
+      "ticker": "ROSN",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "10/29/2022",
+          "url": "assets/reports/ROSN/ROSN_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "RTKM",
+      "name": "Ростелеком",
+      "ticker": "RTKM",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AGRO",
+      "name": "Русагро",
+      "ticker": "AGRO",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "12/20/2022",
+          "url": "assets/reports/AGRO/AGRO_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "RUAL",
+      "name": "Русал ",
+      "ticker": "RUAL",
+      "country": "Россия",
+      "sector": "Базовые материалы ",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/15/2022",
+          "url": "assets/analysis/RUAL/RUAL_3_15_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "8/18/2022",
+          "url": "assets/reports/RUAL/RUAL_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "HYDR ",
+      "name": "РусГидро",
+      "ticker": "HYDR ",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ROLO",
+      "name": "Русолово",
+      "ticker": "ROLO",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AQUA",
+      "name": "Русская аквакультура",
+      "ticker": "AQUA",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/4/2021",
+          "url": "assets/analysis/AQUA/AQUA_1_4_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "8/5/2022",
+          "url": "assets/reports/AQUA/AQUA_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "SBER",
+      "name": "Сбербанк",
+      "ticker": "SBER",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/4/2022",
+          "url": "assets/reports/SBER/SBER_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "CHMF",
+      "name": "Северсталь",
+      "ticker": "CHMF",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/29/2021",
+          "url": "assets/analysis/CHMF/CHMF_3_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SELG",
+      "name": "Селигдар",
+      "ticker": "SELG",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "11/25/2022",
+          "url": "assets/reports/SELG/SELG_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "FLOT",
+      "name": "Совкомфлот",
+      "ticker": "FLOT",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/21/2021",
+          "url": "assets/analysis/FLOT/FLOT_1_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SVAV",
+      "name": "Соллерс Авто",
+      "ticker": "SVAV",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SPBE",
+      "name": "СПБ Биржа",
+      "ticker": "SPBE",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/1/2021",
+          "url": "assets/analysis/SPBE/SPBE_12_1_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SNGSP",
+      "name": "Сургутнефтегаз",
+      "ticker": "SNGSP",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/3/2022",
+          "url": "assets/analysis/SNGSP/SNGSP_5_3_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TATN",
+      "name": "Татнефть",
+      "ticker": "TATN",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/13/2021",
+          "url": "assets/analysis/TATN/TATN_5_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TRMK",
+      "name": "ТМК",
+      "ticker": "TRMK",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "11/15/2022",
+          "url": "assets/reports/TRMK/TRMK_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "TRNFP",
+      "name": "Транснефть",
+      "ticker": "TRNFP",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PHOR",
+      "name": "ФосАгро",
+      "ticker": "PHOR",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HIMCP",
+      "name": "Химпром",
+      "ticker": "HIMCP",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CIAN",
+      "name": "Циан",
+      "ticker": "CIAN",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/27/2021",
+          "url": "assets/analysis/CIAN/CIAN_12_27_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CHMK",
+      "name": "Челябинский металлургический комбинат",
+      "ticker": "CHMK",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GCHE",
+      "name": "Черкизово",
+      "ticker": "GCHE",
+      "country": "Россия",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ENRU",
+      "name": "ЭНЕЛ ",
+      "ticker": "ENRU",
+      "country": "Россия",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "YNDX",
+      "name": "Яндекс",
+      "ticker": "YNDX",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/1/2022",
+          "url": "assets/analysis/YNDX/YNDX_6_1_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/16/2022",
+          "url": "assets/reports/YNDX/YNDX_q4y21.json"
+        },
+        {
+          "period": "q3y22",
+          "date": "11/22/2022",
+          "url": "assets/reports/YNDX/YNDX_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "ABT",
+      "name": "Abbott Laboratories",
+      "ticker": "ABT",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/16/2021",
+          "url": "assets/analysis/ABT/ABT_7_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ABBV",
+      "name": "AbbVie",
+      "ticker": "ABBV",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/16/2021",
+          "url": "assets/analysis/ABBV/ABBV_5_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ACN",
+      "name": "Accenture",
+      "ticker": "ACN",
+      "country": "Ирландия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/10/2021",
+          "url": "assets/analysis/ACN/ACN_4_10_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/18/2022",
+          "url": "assets/reports/ACN/ACN_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ACMR",
+      "name": "ACM Research",
+      "ticker": "ACMR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADS",
+      "name": "Adidas",
+      "ticker": "ADS",
+      "country": "Германия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADMA",
+      "name": "ADMA Biologics",
+      "ticker": "ADMA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADBE",
+      "name": "Adobe",
+      "ticker": "ADBE",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/24/2022",
+          "url": "assets/reports/ADBE/ADBE_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "AEIS",
+      "name": "Advanced Energy Industries",
+      "ticker": "AEIS",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/3/2021",
+          "url": "assets/analysis/AEIS/AEIS_11_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "AVAV",
+      "name": "AeroVironment",
+      "ticker": "AVAV",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "APD",
+      "name": "Air Products and Chemicals",
+      "ticker": "APD",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/20/2021",
+          "url": "assets/analysis/APD/APD_3_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ABNB",
+      "name": "Airbnb",
+      "ticker": "ABNB",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/18/2022",
+          "url": "assets/analysis/ABNB/ABNB_4_18_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ALB",
+      "name": "Albemarle Corporation",
+      "ticker": "ALB",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/12/2022",
+          "url": "assets/analysis/ALB/ALB_1_12_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "AA",
+      "name": "Alcoa ",
+      "ticker": "AA",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/25/2022",
+          "url": "assets/reports/AA/AA_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "BABA",
+      "name": "Alibaba",
+      "ticker": "BABA",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/6/2022",
+          "url": "assets/analysis/BABA/BABA_3_6_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/5/2022",
+          "url": "assets/reports/BABA/BABA_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ALGN ",
+      "name": "Align Technology",
+      "ticker": "ALGN ",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ALV",
+      "name": "Allianz",
+      "ticker": "ALV",
+      "country": "Германия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/26/2021",
+          "url": "assets/analysis/ALV/ALV_8_26_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ALL",
+      "name": "Allstate",
+      "ticker": "ALL",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/13/2021",
+          "url": "assets/analysis/ALL/ALL_7_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ALLY",
+      "name": "Ally Financial",
+      "ticker": "ALLY",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GOOG",
+      "name": "Alphabet",
+      "ticker": "GOOG",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/22/2022",
+          "url": "assets/analysis/GOOG/GOOG_6_22_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/2/2022",
+          "url": "assets/reports/GOOG/GOOG_q4y21.json"
+        },
+        {
+          "period": "q2y22",
+          "date": "8/1/2022",
+          "url": "assets/reports/GOOG/GOOG_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "AYX",
+      "name": "Alteryx",
+      "ticker": "AYX",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AMZN",
+      "name": "Amazon",
+      "ticker": "AMZN",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/3/2021",
+          "url": "assets/analysis/AMZN/AMZN_3_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "AMC ",
+      "name": "AMC Entertainment",
+      "ticker": "AMC ",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AMD",
+      "name": "AMD",
+      "ticker": "AMD",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/1/2021",
+          "url": "assets/analysis/AMD/AMD_2_1_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "11/19/2022",
+          "url": "assets/reports/AMD/AMD_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "AXP",
+      "name": "American Express",
+      "ticker": "AXP",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/7/2022",
+          "url": "assets/analysis/AXP/AXP_4_7_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "APEI",
+      "name": "American Public Education",
+      "ticker": "APEI",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/25/2021",
+          "url": "assets/analysis/APEI/APEI_6_25_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "AMGN",
+      "name": "Amgen",
+      "ticker": "AMGN",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/24/2021",
+          "url": "assets/analysis/AMGN/AMGN_6_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "2020",
+      "name": "​​ANTA Sports Products",
+      "ticker": "2020",
+      "country": "Китай",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AR ",
+      "name": "Antero Resources",
+      "ticker": "AR ",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AAPL",
+      "name": "Apple",
+      "ticker": "AAPL",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/30/2021",
+          "url": "assets/analysis/AAPL/AAPL_11_30_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/28/2022",
+          "url": "assets/reports/AAPL/AAPL_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "APLE",
+      "name": "Apple Hospitality REIT",
+      "ticker": "APLE",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AMAT",
+      "name": "Applied Materials",
+      "ticker": "AMAT",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/28/2021",
+          "url": "assets/analysis/AMAT/AMAT_12_28_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/18/2022",
+          "url": "assets/reports/AMAT/AMAT_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "APP",
+      "name": "AppLovin Corp.",
+      "ticker": "APP",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/18/2021",
+          "url": "assets/analysis/APP/APP_10_18_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "APTV",
+      "name": "Aptiv",
+      "ticker": "APTV",
+      "country": "Ирландия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/8/2021",
+          "url": "assets/analysis/APTV/APTV_12_8_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ABR",
+      "name": "Arbor Realty Trus",
+      "ticker": "ABR",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADM",
+      "name": "Archer Daniels Midland",
+      "ticker": "ADM",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ARNC",
+      "name": "Arconic",
+      "ticker": "ARNC",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ARCC",
+      "name": "Ares Capital",
+      "ticker": "ARCC",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ANET",
+      "name": "Arista",
+      "ticker": "ANET",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/4/2022",
+          "url": "assets/analysis/ANET/ANET_2_4_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ABG",
+      "name": "Asbury Automotive",
+      "ticker": "ABG",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ASML",
+      "name": "ASML Holding",
+      "ticker": "ASML",
+      "country": "Нидерланды",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ASTR",
+      "name": "Astra Space",
+      "ticker": "ASTR",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "T",
+      "name": "AT\u0026T",
+      "ticker": "T",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/8/2021",
+          "url": "assets/analysis/T/T_8_8_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/27/2022",
+          "url": "assets/reports/T/T_q4y21.json"
+        },
+        {
+          "period": "q1y22",
+          "date": "4/26/2022",
+          "url": "assets/reports/T/T_q1y22.json"
+        },
+        {
+          "period": "q2y22",
+          "date": "7/25/2022",
+          "url": "assets/reports/T/T_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "ATRA",
+      "name": "Atara Biotherapeutics",
+      "ticker": "ATRA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/7/2021",
+          "url": "assets/analysis/ATRA/ATRA_6_7_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TEAM ",
+      "name": "Atlassian",
+      "ticker": "TEAM ",
+      "country": "Австралия ",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADSK",
+      "name": "Autodesk",
+      "ticker": "ADSK",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/20/2021",
+          "url": "assets/analysis/ADSK/ADSK_9_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ATHM",
+      "name": "Autohome",
+      "ticker": "ATHM",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ADP",
+      "name": "Automatic Data Processing",
+      "ticker": "ADP",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/22/2022",
+          "url": "assets/analysis/ADP/ADP_2_22_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "AXON ",
+      "name": "Axon Enterprise",
+      "ticker": "AXON ",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AX",
+      "name": "Axos Financial ",
+      "ticker": "AX",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "AXSM",
+      "name": "Axsome Therapeutics",
+      "ticker": "AXSM",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/11/2021",
+          "url": "assets/analysis/AXSM/AXSM_5_11_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BIDU",
+      "name": "Baidu",
+      "ticker": "BIDU",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/13/2022",
+          "url": "assets/analysis/BIDU/BIDU_7_13_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BKR",
+      "name": "Baker Hughes",
+      "ticker": "BKR",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BAC",
+      "name": "Bank of America",
+      "ticker": "BAC",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/20/2022",
+          "url": "assets/reports/BAC/BAC_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "BK",
+      "name": "Bank of New York Mellon",
+      "ticker": "BK",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BZUN",
+      "name": "Baozun",
+      "ticker": "BZUN",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GOLD",
+      "name": "Barrick Gold Corporation",
+      "ticker": "GOLD",
+      "country": "Канада",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/6/2021",
+          "url": "assets/analysis/GOLD/GOLD_8_6_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BAYN",
+      "name": "Bayer",
+      "ticker": "BAYN",
+      "country": "Германия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/19/2022",
+          "url": "assets/analysis/BAYN/BAYN_1_19_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BRKH",
+      "name": "Berkshire Hathaway",
+      "ticker": "BRKH",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/9/2022",
+          "url": "assets/analysis/BRKH/BRKH_6_9_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/23/2022",
+          "url": "assets/reports/BRKH/BRKH_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "BYND",
+      "name": "Beyond Meat",
+      "ticker": "BYND",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/16/2021",
+          "url": "assets/analysis/BYND/BYND_9_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BILI",
+      "name": "Bilibili",
+      "ticker": "BILI",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/24/2021",
+          "url": "assets/analysis/BILI/BILI_5_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BIIB",
+      "name": "Biogen",
+      "ticker": "BIIB",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/7/2022",
+          "url": "assets/analysis/BIIB/BIIB_3_7_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BMRN",
+      "name": "BioMarin Pharmaceutical",
+      "ticker": "BMRN",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/9/2022",
+          "url": "assets/analysis/BMRN/BMRN_2_9_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BTAI",
+      "name": "BioXcel Therapeutics",
+      "ticker": "BTAI",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/2/2021",
+          "url": "assets/analysis/BTAI/BTAI_7_2_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BLK",
+      "name": "BlackRock",
+      "ticker": "BLK",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/26/2021",
+          "url": "assets/analysis/BLK/BLK_7_26_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/18/2022",
+          "url": "assets/reports/BLK/BLK_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "BMWG",
+      "name": "BMW",
+      "ticker": "BMWG",
+      "country": "Германия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/7/2022",
+          "url": "assets/analysis/BMWG/BMWG_2_7_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BA",
+      "name": "Boeing",
+      "ticker": "BA",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/14/2022",
+          "url": "assets/analysis/BA/BA_3_14_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BKNG",
+      "name": "Booking Holdings",
+      "ticker": "BKNG",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/22/2022",
+          "url": "assets/analysis/BKNG/BKNG_4_22_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SAM ",
+      "name": "Boston Beer",
+      "ticker": "SAM ",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BSX",
+      "name": "Boston Scientific",
+      "ticker": "BSX",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BMY",
+      "name": "Bristol-Myers Squibb",
+      "ticker": "BMY",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/6/2021",
+          "url": "assets/analysis/BMY/BMY_7_6_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/8/2022",
+          "url": "assets/reports/BMY/BMY_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "AVGO",
+      "name": "Broadcom",
+      "ticker": "AVGO",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/23/2021",
+          "url": "assets/analysis/AVGO/AVGO_3_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "BG",
+      "name": "Bunge",
+      "ticker": "BG",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "BWXT ",
+      "name": "BWX Technologies",
+      "ticker": "BWXT ",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CCJ",
+      "name": "Cameco Corp.",
+      "ticker": "CCJ",
+      "country": "Канада",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/24/2021",
+          "url": "assets/analysis/CCJ/CCJ_9_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "COF",
+      "name": "Capital One",
+      "ticker": "COF",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/15/2022",
+          "url": "assets/analysis/COF/COF_2_15_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CARA",
+      "name": "Cara Therapeutics",
+      "ticker": "CARA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/31/2021",
+          "url": "assets/analysis/CARA/CARA_5_31_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CCL",
+      "name": "Carnival",
+      "ticker": "CCL",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PRTS",
+      "name": "CarParts.com",
+      "ticker": "PRTS",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/3/2021",
+          "url": "assets/analysis/PRTS/PRTS_9_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CAT",
+      "name": "Caterpillar",
+      "ticker": "CAT",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/31/2022",
+          "url": "assets/analysis/CAT/CAT_5_31_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CE",
+      "name": "Celanese",
+      "ticker": "CE",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CF",
+      "name": "CF Industries",
+      "ticker": "CF",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CHPT",
+      "name": "ChargePoint ",
+      "ticker": "CHPT",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SCHW",
+      "name": "Charles Schwab ",
+      "ticker": "SCHW",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CHKP",
+      "name": "Check Point Software Technologies",
+      "ticker": "CHKP",
+      "country": "Израиль",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CVX",
+      "name": "Chevron",
+      "ticker": "CVX",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/15/2021",
+          "url": "assets/analysis/CVX/CVX_9_15_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CHWY",
+      "name": "Chewy",
+      "ticker": "CHWY",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/13/2021",
+          "url": "assets/analysis/CHWY/CHWY_4_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "939",
+      "name": "China Construction Bank",
+      "ticker": "939",
+      "country": "Китай",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "941",
+      "name": "China Mobile",
+      "ticker": "941",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "1088",
+      "name": "China Shenhua Energy",
+      "ticker": "1088",
+      "country": "Китай",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CB",
+      "name": "Chubb",
+      "ticker": "CB",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/9/2022",
+          "url": "assets/analysis/CB/CB_3_9_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CSCO",
+      "name": "Cisco",
+      "ticker": "CSCO",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/12/2021",
+          "url": "assets/analysis/CSCO/CSCO_10_12_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "C",
+      "name": "Citigroup",
+      "ticker": "C",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/22/2021",
+          "url": "assets/analysis/C/C_9_22_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CLSK",
+      "name": "CleanSpark",
+      "ticker": "CLSK",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CLF",
+      "name": "Cleveland-Cliffs",
+      "ticker": "CLF",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/13/2022",
+          "url": "assets/analysis/CLF/CLF_4_13_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NET ",
+      "name": "CloudFlare",
+      "ticker": "NET ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CLOV",
+      "name": "Clover Health Investments",
+      "ticker": "CLOV",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/20/2021",
+          "url": "assets/analysis/CLOV/CLOV_10_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CME",
+      "name": "CME",
+      "ticker": "CME",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/16/2021",
+          "url": "assets/analysis/CME/CME_12_16_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/10/2022",
+          "url": "assets/reports/CME/CME_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "KO",
+      "name": "Coca-Cola",
+      "ticker": "KO",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "COHR",
+      "name": "Coherent",
+      "ticker": "COHR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "COIN",
+      "name": "Coinbase",
+      "ticker": "COIN",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/29/2021",
+          "url": "assets/analysis/COIN/COIN_5_29_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "5/17/2022",
+          "url": "assets/reports/COIN/COIN_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "CMC",
+      "name": "Commercial Metals ",
+      "ticker": "CMC",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CMP",
+      "name": "Compass Minerals",
+      "ticker": "CMP",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CAG",
+      "name": "Conagra Brands",
+      "ticker": "CAG",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "COP",
+      "name": "ConocoPhillips",
+      "ticker": "COP",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/6/2022",
+          "url": "assets/analysis/COP/COP_4_6_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CORT",
+      "name": "Corcept Therapeutics",
+      "ticker": "CORT",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/28/2021",
+          "url": "assets/analysis/CORT/CORT_6_28_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "GLW",
+      "name": "Corning",
+      "ticker": "GLW",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/4/2021",
+          "url": "assets/analysis/GLW/GLW_6_4_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CRSR",
+      "name": "Corsair Gaming",
+      "ticker": "CRSR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/27/2021",
+          "url": "assets/analysis/CRSR/CRSR_9_27_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CTVA",
+      "name": "Corteva",
+      "ticker": "CTVA",
+      "country": "США",
+      "sector": "базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CSGP",
+      "name": "CoStar Group",
+      "ticker": "CSGP",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/14/2021",
+          "url": "assets/analysis/CSGP/CSGP_9_14_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "COST",
+      "name": "Costco Group",
+      "ticker": "COST",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/1/2022",
+          "url": "assets/analysis/COST/COST_3_1_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CTRA",
+      "name": "Coterra Energy ",
+      "ticker": "CTRA",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/3/2022",
+          "url": "assets/analysis/CTRA/CTRA_6_3_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "COUP",
+      "name": "Coupa Software",
+      "ticker": "COUP",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CPNG",
+      "name": "Coupang",
+      "ticker": "CPNG",
+      "country": "Южная Корея",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "COUR",
+      "name": "Coursera",
+      "ticker": "COUR",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/7/2021",
+          "url": "assets/analysis/COUR/COUR_7_7_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CRSP",
+      "name": "CRISPR Therapeutics",
+      "ticker": "CRSP",
+      "country": "Швейцария",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/28/2021",
+          "url": "assets/analysis/CRSP/CRSP_7_28_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CROX",
+      "name": "Crocs",
+      "ticker": "CROX",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/14/2021",
+          "url": "assets/analysis/CROX/CROX_10_14_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CRWD",
+      "name": "CrowdStrike Holdings",
+      "ticker": "CRWD",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/6/2021",
+          "url": "assets/analysis/CRWD/CRWD_9_6_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/16/2022",
+          "url": "assets/reports/CRWD/CRWD_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "CCI",
+      "name": "Crown Castle",
+      "ticker": "CCI",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "1093",
+      "name": "CSPC Pharmaceutical Group",
+      "ticker": "1093",
+      "country": "Китай",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CUBI ",
+      "name": "Customers Bancorp",
+      "ticker": "CUBI ",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "CVS",
+      "name": "CVS Health",
+      "ticker": "CVS",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DHR",
+      "name": "Danaher Corporation",
+      "ticker": "DHR",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/17/2021",
+          "url": "assets/analysis/DHR/DHR_12_17_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "DQ ",
+      "name": "DAQO New Energy",
+      "ticker": "DQ ",
+      "country": "Китай",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DAR",
+      "name": "Darling Ingredients",
+      "ticker": "DAR",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DDOG",
+      "name": "Datadog",
+      "ticker": "DDOG",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/16/2022",
+          "url": "assets/analysis/DDOG/DDOG_3_16_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "DE",
+      "name": "Deere \u0026 Company",
+      "ticker": "DE",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DHER",
+      "name": "Delivery Hero",
+      "ticker": "DHER",
+      "country": "Германия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/23/2021",
+          "url": "assets/analysis/DHER/DHER_9_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "DELL",
+      "name": "Dell",
+      "ticker": "DELL",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DAL",
+      "name": "Delta Air Lines",
+      "ticker": "DAL",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/14/2022",
+          "url": "assets/reports/DAL/DAL_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "DLR",
+      "name": "Digital Realty Trust",
+      "ticker": "DLR",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "APPS",
+      "name": "Digital Turbine",
+      "ticker": "APPS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/27/2021",
+          "url": "assets/analysis/APPS/APPS_8_27_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/10/2022",
+          "url": "assets/reports/APPS/APPS_q4y21.json"
+        },
+        {
+          "period": "q3y22",
+          "date": "11/24/2022",
+          "url": "assets/reports/APPS/APPS_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "DIS",
+      "name": "Disney",
+      "ticker": "DIS",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/10/2021",
+          "url": "assets/analysis/DIS/DIS_6_10_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/11/2022",
+          "url": "assets/reports/DIS/DIS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "DLO",
+      "name": "DLocal Limited Inc",
+      "ticker": "DLO",
+      "country": "Израиль",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DOCU",
+      "name": "DocuSign ",
+      "ticker": "DOCU",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DPZ",
+      "name": "Domino\u0027s Pizza",
+      "ticker": "DPZ",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DASH",
+      "name": "Doordash",
+      "ticker": "DASH",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/29/2021",
+          "url": "assets/analysis/DASH/DASH_4_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "DOW",
+      "name": "DOW",
+      "ticker": "DOW",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DOCS",
+      "name": "Doximity",
+      "ticker": "DOCS",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "DHI",
+      "name": "Dr Horton",
+      "ticker": "DHI",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/5/2021",
+          "url": "assets/analysis/DHI/DHI_2_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "DKNG",
+      "name": "DraftKings",
+      "ticker": "DKNG",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/8/2021",
+          "url": "assets/analysis/DKNG/DKNG_6_8_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EBAY",
+      "name": "eBay",
+      "ticker": "EBAY",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/24/2021",
+          "url": "assets/analysis/EBAY/EBAY_11_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EDIT",
+      "name": "Editas Medicine",
+      "ticker": "EDIT",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/29/2021",
+          "url": "assets/analysis/EDIT/EDIT_11_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EW",
+      "name": "Edwards Lifescience",
+      "ticker": "EW",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/30/2021",
+          "url": "assets/analysis/EW/EW_9_30_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EA",
+      "name": "Electronic Arts",
+      "ticker": "EA",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/21/2021",
+          "url": "assets/analysis/EA/EA_10_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ELV",
+      "name": "Elevance Health",
+      "ticker": "ELV",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/15/2021",
+          "url": "assets/analysis/ELV/ELV_6_15_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LLY",
+      "name": "Eli Lilly",
+      "ticker": "LLY",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/21/2021",
+          "url": "assets/analysis/LLY/LLY_12_21_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/7/2022",
+          "url": "assets/reports/LLY/LLY_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ENPG",
+      "name": "En+ Group",
+      "ticker": "ENPG",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ET",
+      "name": "Energy Transfer",
+      "ticker": "ET",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ENPH",
+      "name": "Enphase Energy",
+      "ticker": "ENPH",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/10/2022",
+          "url": "assets/analysis/ENPH/ENPH_5_10_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EOG",
+      "name": "EOG Resources",
+      "ticker": "EOG",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/2/2022",
+          "url": "assets/analysis/EOG/EOG_6_2_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EPAM",
+      "name": "EPAM",
+      "ticker": "EPAM",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/14/2022",
+          "url": "assets/analysis/EPAM/EPAM_2_14_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EQT",
+      "name": "EQT ",
+      "ticker": "EQT",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "8/22/2022",
+          "url": "assets/reports/EQT/EQT_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "EQIX",
+      "name": "Equinix",
+      "ticker": "EQIX",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/7/2021",
+          "url": "assets/analysis/EQIX/EQIX_10_7_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ESPR",
+      "name": "Esperion",
+      "ticker": "ESPR",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/9/2021",
+          "url": "assets/analysis/ESPR/ESPR_12_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ETLN ",
+      "name": "Etalon Group",
+      "ticker": "ETLN ",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ETSY",
+      "name": "Etsy",
+      "ticker": "ETSY",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/8/2022",
+          "url": "assets/analysis/ETSY/ETSY_2_8_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EVR",
+      "name": "Evercore",
+      "ticker": "EVR",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "EXEL",
+      "name": "Exelixis",
+      "ticker": "EXEL",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/8/2021",
+          "url": "assets/analysis/EXEL/EXEL_7_8_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "EXPE",
+      "name": "Expedia Group ",
+      "ticker": "EXPE",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/28/2022",
+          "url": "assets/analysis/EXPE/EXPE_6_28_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "XOM",
+      "name": "Exxon Mobil",
+      "ticker": "XOM",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/9/2021",
+          "url": "assets/analysis/XOM/XOM_7_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FSLY",
+      "name": "Fastly",
+      "ticker": "FSLY",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/3/2021",
+          "url": "assets/analysis/FSLY/FSLY_8_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FATE",
+      "name": "Fate Therapeutics",
+      "ticker": "FATE",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FDX",
+      "name": "Fedex",
+      "ticker": "FDX",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/16/2021",
+          "url": "assets/analysis/FDX/FDX_4_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FIS",
+      "name": "Fidelity National",
+      "ticker": "FIS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FNF",
+      "name": "Fidelity National Financial",
+      "ticker": "FNF",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FSLR",
+      "name": "First Solar",
+      "ticker": "FSLR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/23/2021",
+          "url": "assets/analysis/FSLR/FSLR_11_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FISV",
+      "name": "Fiserv",
+      "ticker": "FISV",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/17/2021",
+          "url": "assets/analysis/FISV/FISV_11_17_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FIVE",
+      "name": "Five Below",
+      "ticker": "FIVE",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/3/2021",
+          "url": "assets/analysis/FIVE/FIVE_4_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FIXP",
+      "name": "Fix Price",
+      "ticker": "FIXP",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/4/2021",
+          "url": "assets/analysis/FIXP/FIXP_3_4_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "10/5/2022",
+          "url": "assets/reports/FIXP/FIXP_q2y22.json"
+        },
+        {
+          "period": "q3y22",
+          "date": "1/4/2023",
+          "url": "assets/reports/FIXP/FIXP_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "FLNG",
+      "name": "Flex LNG",
+      "ticker": "FLNG",
+      "country": "Бермуды",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FMC",
+      "name": "FMC Corporation",
+      "ticker": "FMC",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "F",
+      "name": "Ford",
+      "ticker": "F",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/17/2022",
+          "url": "assets/analysis/F/F_6_17_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FTNT",
+      "name": "Fortinet ",
+      "ticker": "FTNT",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/11/2022",
+          "url": "assets/analysis/FTNT/FTNT_7_11_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "FRHC",
+      "name": "Freedom Holding",
+      "ticker": "FRHC",
+      "country": "Казахстан",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FCX",
+      "name": "Freeport-McMoRan",
+      "ticker": "FCX",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/12/2021",
+          "url": "assets/analysis/FCX/FCX_7_12_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q1y22",
+          "date": "4/27/2022",
+          "url": "assets/reports/FCX/FCX_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "FRPT",
+      "name": "Freshpet",
+      "ticker": "FRPT",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/5/2022",
+          "url": "assets/analysis/FRPT/FRPT_4_5_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "YMM",
+      "name": "Full Truck Alliance",
+      "ticker": "YMM",
+      "country": "Канада",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FUTU",
+      "name": "Futu Holdings",
+      "ticker": "FUTU",
+      "country": "Китай",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GTHX",
+      "name": "G1 Therapeutics",
+      "ticker": "GTHX",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/1/2022",
+          "url": "assets/analysis/GTHX/GTHX_11_1_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/25/2022",
+          "url": "assets/reports/GTHX/GTHX_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "GRMN",
+      "name": "Garmin",
+      "ticker": "GRMN",
+      "country": "Швейцария",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/10/2021",
+          "url": "assets/analysis/GRMN/GRMN_12_10_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "175",
+      "name": "Geely",
+      "ticker": "175",
+      "country": "Китай",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GD",
+      "name": "General Dynamics",
+      "ticker": "GD",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GE",
+      "name": "General Electric",
+      "ticker": "GE",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/27/2021",
+          "url": "assets/analysis/GE/GE_7_27_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/27/2022",
+          "url": "assets/reports/GE/GE_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "GM",
+      "name": "General Motors",
+      "ticker": "GM",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/5/2021",
+          "url": "assets/analysis/GM/GM_4_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "GEO",
+      "name": "GEO Group",
+      "ticker": "GEO",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GILD",
+      "name": "Gilead",
+      "ticker": "GILD",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/3/2021",
+          "url": "assets/analysis/GILD/GILD_6_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "GTLB",
+      "name": "GitLab Inc.",
+      "ticker": "GTLB",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/16/2021",
+          "url": "assets/analysis/GTLB/GTLB_12_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "GPN",
+      "name": "Global Payments",
+      "ticker": "GPN",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/13/2021",
+          "url": "assets/analysis/GPN/GPN_9_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "GLBE",
+      "name": "Global-E Online",
+      "ticker": "GLBE",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GFS",
+      "name": "GlobalFoundries",
+      "ticker": "GFS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GLTR",
+      "name": "Globaltrans",
+      "ticker": "GLTR",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "GS",
+      "name": "Goldman Sachs  ",
+      "ticker": "GS",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/19/2022",
+          "url": "assets/reports/GS/GS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "GXO",
+      "name": "GXO Logistics",
+      "ticker": "GXO",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/1/2021",
+          "url": "assets/analysis/GXO/GXO_9_1_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "HAL",
+      "name": "Halliburton",
+      "ticker": "HAL",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HALO",
+      "name": "Halozyme Therapeutics",
+      "ticker": "HALO",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/23/2022",
+          "url": "assets/analysis/HALO/HALO_3_23_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "HHR",
+      "name": "HeadHunter",
+      "ticker": "HHR",
+      "country": "Россия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MOMO",
+      "name": "Hello Group",
+      "ticker": "MOMO",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HIW",
+      "name": "Highwoods Properties",
+      "ticker": "HIW",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HIMX",
+      "name": "Himax Technologies ",
+      "ticker": "HIMX",
+      "country": "Тайвань",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HD",
+      "name": "Home Depot",
+      "ticker": "HD",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/23/2022",
+          "url": "assets/reports/HD/HD_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "HON",
+      "name": "Honeywell",
+      "ticker": "HON",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/10/2021",
+          "url": "assets/analysis/HON/HON_5_10_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "388",
+      "name": "Hong Kong Exchanges",
+      "ticker": "388",
+      "country": "Китай",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HPQ",
+      "name": "HP",
+      "ticker": "HPQ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "1347",
+      "name": "Hua Hong Semiconductor",
+      "ticker": "1347",
+      "country": "Китай",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HUM",
+      "name": "Humana",
+      "ticker": "HUM",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/11/2022",
+          "url": "assets/analysis/HUM/HUM_2_11_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "HBAN",
+      "name": "Hungtington Bancshares",
+      "ticker": "HBAN",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/2/2022",
+          "url": "assets/analysis/HBAN/HBAN_3_2_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "IBM",
+      "name": "IBM",
+      "ticker": "IBM",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/17/2021",
+          "url": "assets/analysis/IBM/IBM_8_17_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/25/2022",
+          "url": "assets/reports/IBM/IBM_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "IIPR",
+      "name": "IIPR",
+      "ticker": "IIPR",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ILMN",
+      "name": "Illumina",
+      "ticker": "ILMN",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/28/2021",
+          "url": "assets/analysis/ILMN/ILMN_1_28_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/15/2022",
+          "url": "assets/reports/ILMN/ILMN_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "INCY",
+      "name": "Incyte",
+      "ticker": "INCY",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/6/2022",
+          "url": "assets/analysis/INCY/INCY_1_6_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "INDI ",
+      "name": "Indie Semiconductor",
+      "ticker": "INDI ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "INGR",
+      "name": "Ingredion",
+      "ticker": "INGR",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "INMD",
+      "name": "InMode",
+      "ticker": "INMD",
+      "country": "Израиль",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/21/2021",
+          "url": "assets/analysis/INMD/INMD_4_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "INTC",
+      "name": "Intel",
+      "ticker": "INTC",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/16/2022",
+          "url": "assets/analysis/INTC/INTC_2_16_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/28/2022",
+          "url": "assets/reports/INTC/INTC_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "NTLA",
+      "name": "Intellia Therapeutics",
+      "ticker": "NTLA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "IBKR",
+      "name": "Interactive Brokers",
+      "ticker": "IBKR",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ICE",
+      "name": "Intercontinental Exchange",
+      "ticker": "ICE",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/24/2021",
+          "url": "assets/analysis/ICE/ICE_4_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "INTU",
+      "name": "Intuit",
+      "ticker": "INTU",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ISRG",
+      "name": "Intuitive Surgical",
+      "ticker": "ISRG",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/18/2021",
+          "url": "assets/analysis/ISRG/ISRG_11_18_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/25/2022",
+          "url": "assets/reports/ISRG/ISRG_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "IVZ",
+      "name": "​Invesco",
+      "ticker": "IVZ",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "IOVA",
+      "name": "Iovance Biotherapeutics",
+      "ticker": "IOVA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/18/2021",
+          "url": "assets/analysis/IOVA/IOVA_2_18_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "JD",
+      "name": "JD.com",
+      "ticker": "JD",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "JKS",
+      "name": "Jinko Solar",
+      "ticker": "JKS",
+      "country": "Китай",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "JNJ",
+      "name": "Johnson\u0026Johnson",
+      "ticker": "JNJ",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/16/2021",
+          "url": "assets/analysis/JNJ/JNJ_2_16_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/28/2022",
+          "url": "assets/reports/JNJ/JNJ_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "JPM",
+      "name": "JP Morgan Chase",
+      "ticker": "JPM",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/5/2021",
+          "url": "assets/analysis/JPM/JPM_5_5_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/15/2022",
+          "url": "assets/reports/JPM/JPM_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "KSPI",
+      "name": "Kaspi Bank",
+      "ticker": "KSPI",
+      "country": "Казахстан",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/10/2021",
+          "url": "assets/analysis/KSPI/KSPI_11_10_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "KBH",
+      "name": "KB Home",
+      "ticker": "KBH",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/28/2021",
+          "url": "assets/analysis/KBH/KBH_4_28_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "KMB",
+      "name": "Kimberly-Clark",
+      "ticker": "KMB",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KMI",
+      "name": "Kinder Morgan",
+      "ticker": "KMI",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KC",
+      "name": "Kingsoft Cloud",
+      "ticker": "KC",
+      "country": "Китай",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KTOS",
+      "name": "Kratos Defense \u0026 Security",
+      "ticker": "KTOS",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "KR",
+      "name": "Kroger",
+      "ticker": "KR",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LHX",
+      "name": "L3Harris Technologies",
+      "ticker": "LHX",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LSTR",
+      "name": "Landstar System",
+      "ticker": "LSTR",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/19/2021",
+          "url": "assets/analysis/LSTR/LSTR_8_19_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LVS",
+      "name": "Las Vegas Sands",
+      "ticker": "LVS",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "4/16/2022",
+          "url": "assets/reports/LVS/LVS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "LMND",
+      "name": "Lemonade",
+      "ticker": "LMND",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TREE",
+      "name": "LendingTree",
+      "ticker": "TREE",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/13/2021",
+          "url": "assets/analysis/TREE/TREE_6_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LEN",
+      "name": "Lennar",
+      "ticker": "LEN",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "992",
+      "name": "Lenovo Group",
+      "ticker": "992",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LI",
+      "name": "Li Auto",
+      "ticker": "LI",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/2/2021",
+          "url": "assets/analysis/LI/LI_6_2_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LIN",
+      "name": "Linde",
+      "ticker": "LIN",
+      "country": "Великобритания",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/2/2021",
+          "url": "assets/analysis/LIN/LIN_9_2_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LTHM",
+      "name": "Livent ",
+      "ticker": "LTHM",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LMT",
+      "name": "Lockheed Martin",
+      "ticker": "LMT",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/4/2021",
+          "url": "assets/analysis/LMT/LMT_2_4_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/26/2022",
+          "url": "assets/reports/LMT/LMT_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "LOGI",
+      "name": "Logitech International",
+      "ticker": "LOGI",
+      "country": "Швейцария",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/4/2021",
+          "url": "assets/analysis/LOGI/LOGI_11_4_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LPX",
+      "name": "Louisiana-Pacific Corporation",
+      "ticker": "LPX",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/9/2021",
+          "url": "assets/analysis/LPX/LPX_9_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LOW",
+      "name": "Lowe`s",
+      "ticker": "LOW",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LULU",
+      "name": "Lululemon Athletica",
+      "ticker": "LULU",
+      "country": "Канада",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/19/2021",
+          "url": "assets/analysis/LULU/LULU_4_19_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "LUMN",
+      "name": "Lumen Technologies",
+      "ticker": "LUMN",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LYB",
+      "name": "LyondellBasell ",
+      "ticker": "LYB",
+      "country": "США",
+      "sector": "Базовые материалы ",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MTB",
+      "name": "M\u0026T Bank",
+      "ticker": "MTB",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/28/2022",
+          "url": "assets/analysis/MTB/MTB_1_28_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "M",
+      "name": "Macy’s",
+      "ticker": "M",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MARA",
+      "name": "Marathon Digital",
+      "ticker": "MARA",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MKL",
+      "name": "Markel",
+      "ticker": "MKL",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MKTX",
+      "name": "MarketAxess",
+      "ticker": "MKTX",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MQ",
+      "name": "Marqeta",
+      "ticker": "MQ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/23/2021",
+          "url": "assets/analysis/MQ/MQ_6_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MMC",
+      "name": "Marsh \u0026 McLennan",
+      "ticker": "MMC",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MLM",
+      "name": "Martin Marietta Materials",
+      "ticker": "MLM",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MRVL ",
+      "name": "Marvell Technology",
+      "ticker": "MRVL ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MA",
+      "name": "MasterCard",
+      "ticker": "MA",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/31/2021",
+          "url": "assets/analysis/MA/MA_3_31_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/28/2022",
+          "url": "assets/reports/MA/MA_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "MTRN",
+      "name": "Materion",
+      "ticker": "MTRN",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MCD",
+      "name": "McDonald’s",
+      "ticker": "MCD",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/6/2022",
+          "url": "assets/analysis/MCD/MCD_5_6_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MED",
+      "name": "Medifast",
+      "ticker": "MED",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/25/2021",
+          "url": "assets/analysis/MED/MED_10_25_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MDT ",
+      "name": "Medtronic",
+      "ticker": "MDT ",
+      "country": "Ирландия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": " 3690",
+      "name": "Meituan",
+      "ticker": " 3690",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MELI",
+      "name": "MercadoLibre",
+      "ticker": "MELI",
+      "country": "Аргентина",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/20/2022",
+          "url": "assets/analysis/MELI/MELI_1_20_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MRK",
+      "name": "Merck",
+      "ticker": "MRK",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/25/2021",
+          "url": "assets/analysis/MRK/MRK_5_25_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MRK@DE",
+      "name": "Merck KGaA",
+      "ticker": "MRK@DE",
+      "country": "Германия",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/25/2021",
+          "url": "assets/analysis/MRK@DE/MRK@DE_8_25_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "META",
+      "name": "Meta Platforms",
+      "ticker": "META",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/9/2021",
+          "url": "assets/analysis/META/META_5_9_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/3/2022",
+          "url": "assets/reports/META/META_q4y21.json"
+        },
+        {
+          "period": "q1y22",
+          "date": "5/2/2022",
+          "url": "assets/reports/META/META_q1y22.json"
+        }
+      ]
+    },
+    {
+      "id": "MET",
+      "name": "MetLife",
+      "ticker": "MET",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MU",
+      "name": "Micron",
+      "ticker": "MU",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/26/2021",
+          "url": "assets/analysis/MU/MU_9_26_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/31/2022",
+          "url": "assets/reports/MU/MU_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "MSFT",
+      "name": "Microsoft",
+      "ticker": "MSFT",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/27/2021",
+          "url": "assets/analysis/MSFT/MSFT_6_27_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/26/2022",
+          "url": "assets/reports/MSFT/MSFT_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "MSTR",
+      "name": "MicroStrategy",
+      "ticker": "MSTR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/18/2021",
+          "url": "assets/analysis/MSTR/MSTR_5_18_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MBLY",
+      "name": "Mobileye",
+      "ticker": "MBLY",
+      "country": "Израиль",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MRNA",
+      "name": "Moderna",
+      "ticker": "MRNA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/13/2021",
+          "url": "assets/analysis/MRNA/MRNA_10_13_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MDB",
+      "name": "MongoDB",
+      "ticker": "MDB",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "MNST",
+      "name": "Monster Beverage",
+      "ticker": "MNST",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/9/2021",
+          "url": "assets/analysis/MNST/MNST_6_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MS",
+      "name": "Morgan Stanley ",
+      "ticker": "MS",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/21/2022",
+          "url": "assets/reports/MS/MS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "MP",
+      "name": "MP Materials",
+      "ticker": "MP",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/21/2022",
+          "url": "assets/analysis/MP/MP_2_21_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MSM",
+      "name": "MSC Industrial",
+      "ticker": "MSM",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/23/2021",
+          "url": "assets/analysis/MSM/MSM_7_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "66",
+      "name": "MTR",
+      "ticker": "66",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NKTR",
+      "name": "Nektar Therapeutics",
+      "ticker": "NKTR",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/21/2021",
+          "url": "assets/analysis/NKTR/NKTR_6_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NTES",
+      "name": "NetEase",
+      "ticker": "NTES",
+      "country": "Китай",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/16/2021",
+          "url": "assets/analysis/NTES/NTES_8_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NFLX",
+      "name": "Netflix",
+      "ticker": "NFLX",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/11/2021",
+          "url": "assets/analysis/NFLX/NFLX_11_11_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/21/2022",
+          "url": "assets/reports/NFLX/NFLX_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "NBIX",
+      "name": "Neurocrine",
+      "ticker": "NBIX",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/22/2021",
+          "url": "assets/analysis/NBIX/NBIX_5_22_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NFE",
+      "name": "New Fortress Energy",
+      "ticker": "NFE",
+      "country": "США",
+      "sector": "Коммунальные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NEM",
+      "name": "Newmont Goldcorp",
+      "ticker": "NEM",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/31/2021",
+          "url": "assets/analysis/NEM/NEM_8_31_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NXST ",
+      "name": "Nexstar Media",
+      "ticker": "NXST ",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NEE",
+      "name": "NextEra Energy",
+      "ticker": "NEE",
+      "country": "США",
+      "sector": "Коммунальные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/26/2021",
+          "url": "assets/analysis/NEE/NEE_6_26_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/26/2022",
+          "url": "assets/reports/NEE/NEE_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "NKE",
+      "name": "Nike",
+      "ticker": "NKE",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/23/2021",
+          "url": "assets/analysis/NKE/NKE_4_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NIO",
+      "name": "Nio",
+      "ticker": "NIO",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/9/2021",
+          "url": "assets/analysis/NIO/NIO_8_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NOK",
+      "name": "Nokia",
+      "ticker": "NOK",
+      "country": "Финляндия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NLOK",
+      "name": "NortonLifeLock",
+      "ticker": "NLOK",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NVAX",
+      "name": "Novavax Inc.",
+      "ticker": "NVAX",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NU",
+      "name": "Nubank",
+      "ticker": "NU",
+      "country": "Бразилия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/14/2021",
+          "url": "assets/analysis/NU/NU_12_14_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NUE ",
+      "name": "Nucor",
+      "ticker": "NUE ",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "NTR",
+      "name": "Nutrien",
+      "ticker": "NTR",
+      "country": "Канада",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/29/2022",
+          "url": "assets/analysis/NTR/NTR_4_29_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NVDA",
+      "name": "Nvidia",
+      "ticker": "NVDA",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/27/2021",
+          "url": "assets/analysis/NVDA/NVDA_2_27_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/17/2022",
+          "url": "assets/reports/NVDA/NVDA_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "OXY",
+      "name": "Occidental Petroleum",
+      "ticker": "OXY",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "OKE",
+      "name": "ONEOK",
+      "ticker": "OKE",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ONTO",
+      "name": "Onto Innovation",
+      "ticker": "ONTO",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/14/2021",
+          "url": "assets/analysis/ONTO/ONTO_5_14_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ORCL",
+      "name": "Oracle",
+      "ticker": "ORCL",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/21/2022",
+          "url": "assets/analysis/ORCL/ORCL_3_21_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "OGN",
+      "name": "Organon \u0026 Co",
+      "ticker": "OGN",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/11/2021",
+          "url": "assets/analysis/OGN/OGN_8_11_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/21/2022",
+          "url": "assets/reports/OGN/OGN_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "OVV",
+      "name": "Ovintiv ",
+      "ticker": "OVV",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "OZON",
+      "name": "Ozon",
+      "ticker": "OZON",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/10/2022",
+          "url": "assets/analysis/OZON/OZON_1_10_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "11/30/2022",
+          "url": "assets/reports/OZON/OZON_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "PAGS",
+      "name": "PagSeguro",
+      "ticker": "PAGS",
+      "country": "Бразилия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PLTR",
+      "name": "Palantir",
+      "ticker": "PLTR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/19/2021",
+          "url": "assets/analysis/PLTR/PLTR_3_19_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PANW",
+      "name": "Palo Alto",
+      "ticker": "PANW",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/24/2021",
+          "url": "assets/analysis/PANW/PANW_3_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PAAS",
+      "name": "Pan American Silver Corp.",
+      "ticker": "PAAS",
+      "country": "Канада",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/26/2021",
+          "url": "assets/analysis/PAAS/PAAS_11_26_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PARA",
+      "name": "Paramount Global ",
+      "ticker": "PARA",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/5/2021",
+          "url": "assets/analysis/PARA/PARA_10_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PYPL",
+      "name": "PayPal",
+      "ticker": "PYPL",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/2/2021",
+          "url": "assets/analysis/PYPL/PYPL_12_2_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/3/2022",
+          "url": "assets/reports/PYPL/PYPL_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "BTU ",
+      "name": "Peabody Energy",
+      "ticker": "BTU ",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PTON",
+      "name": "Peloton Interactive ",
+      "ticker": "PTON",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PEP",
+      "name": "PepsiCo",
+      "ticker": "PEP",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/17/2021",
+          "url": "assets/analysis/PEP/PEP_6_17_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/14/2022",
+          "url": "assets/reports/PEP/PEP_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "PBR",
+      "name": "Petrobras",
+      "ticker": "PBR",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PFE",
+      "name": "Pfizer",
+      "ticker": "PFE",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/9/2022",
+          "url": "assets/reports/PFE/PFE_q4y21.json"
+        },
+        {
+          "period": "q2y22",
+          "date": "8/12/2022",
+          "url": "assets/reports/PFE/PFE_q2y22.json"
+        },
+        {
+          "period": "q3y22",
+          "date": "12/12/2022",
+          "url": "assets/reports/PFE/PFE_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "PM",
+      "name": "Philip Morris",
+      "ticker": "PM",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/7/2021",
+          "url": "assets/analysis/PM/PM_5_7_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PDD",
+      "name": "Pinduoduo",
+      "ticker": "PDD",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/30/2021",
+          "url": "assets/analysis/PDD/PDD_6_30_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "2318",
+      "name": "Ping An",
+      "ticker": "2318",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PINS",
+      "name": "Pinterest",
+      "ticker": "PINS",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PXD",
+      "name": "Pioneer Natural Resources",
+      "ticker": "PXD",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PLUG",
+      "name": "Plug Power",
+      "ticker": "PLUG",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/30/2021",
+          "url": "assets/analysis/PLUG/PLUG_8_30_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "POLY",
+      "name": "Polymetal",
+      "ticker": "POLY",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/6/2021",
+          "url": "assets/analysis/POLY/POLY_4_6_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "9/30/2022",
+          "url": "assets/reports/POLY/POLY_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "POSI",
+      "name": "Positive Technologies",
+      "ticker": "POSI",
+      "country": "Россия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "12/8/2022",
+          "url": "assets/reports/POSI/POSI_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "PG",
+      "name": "Procter \u0026 Gamble",
+      "ticker": "PG",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/17/2021",
+          "url": "assets/analysis/PG/PG_9_17_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/21/2022",
+          "url": "assets/reports/PG/PG_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "PGR",
+      "name": "Progressive",
+      "ticker": "PGR",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PRU",
+      "name": "Prudential Financial ",
+      "ticker": "PRU",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PTC",
+      "name": "PTC",
+      "ticker": "PTC",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "PSA ",
+      "name": "Public Storage",
+      "ticker": "PSA ",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "QIWI",
+      "name": "Qiwi",
+      "ticker": "QIWI",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "QCOM",
+      "name": "Qualcomm",
+      "ticker": "QCOM",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/7/2021",
+          "url": "assets/analysis/QCOM/QCOM_3_7_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q3y22",
+          "date": "12/26/2022",
+          "url": "assets/reports/QCOM/QCOM_q3y22.json"
+        }
+      ]
+    },
+    {
+      "id": "QLYS",
+      "name": "Qualys",
+      "ticker": "QLYS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "QS",
+      "name": "QuantumScape Corp.",
+      "ticker": "QS",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/29/2021",
+          "url": "assets/analysis/QS/QS_6_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "RTX",
+      "name": "Raytheon Technologies",
+      "ticker": "RTX",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/11/2022",
+          "url": "assets/analysis/RTX/RTX_5_11_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "O",
+      "name": "Realty Income",
+      "ticker": "O",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "REGN",
+      "name": "Regeneron",
+      "ticker": "REGN",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/11/2021",
+          "url": "assets/analysis/REGN/REGN_6_11_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "RS",
+      "name": "Reliance Steel",
+      "ticker": "RS",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "RNG",
+      "name": "RingCentral",
+      "ticker": "RNG",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "RIOT",
+      "name": "Riot Blockchain",
+      "ticker": "RIOT",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/23/2021",
+          "url": "assets/analysis/RIOT/RIOT_12_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "RIVN",
+      "name": "Rivian Automotive",
+      "ticker": "RIVN",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/16/2021",
+          "url": "assets/analysis/RIVN/RIVN_11_16_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "HOOD",
+      "name": "Robinhood",
+      "ticker": "HOOD",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "RBLX",
+      "name": "Roblox Corp",
+      "ticker": "RBLX",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/14/2022",
+          "url": "assets/analysis/RBLX/RBLX_3_14_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "ROKU",
+      "name": "Roku",
+      "ticker": "ROKU",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/4/2021",
+          "url": "assets/analysis/ROKU/ROKU_10_4_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/21/2022",
+          "url": "assets/reports/ROKU/ROKU_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "RY",
+      "name": "Royal Bank of Canada",
+      "ticker": "RY",
+      "country": "Канада",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": " RCL ",
+      "name": "Royal Caribbean",
+      "ticker": " RCL ",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "RGLD",
+      "name": "Royal Gold",
+      "ticker": "RGLD",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/2/2021",
+          "url": "assets/analysis/RGLD/RGLD_3_2_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SPGI",
+      "name": "S\u0026P Global ",
+      "ticker": "SPGI",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SBRA",
+      "name": "Sabra Health Care",
+      "ticker": "SBRA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SAGE",
+      "name": "Sage Therapeutics",
+      "ticker": "SAGE",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/24/2021",
+          "url": "assets/analysis/SAGE/SAGE_12_24_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "CRM",
+      "name": "Salesforce",
+      "ticker": "CRM",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SNY",
+      "name": "Sanofi",
+      "ticker": "SNY",
+      "country": "Франция",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/17/2021",
+          "url": "assets/analysis/SNY/SNY_5_17_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SAP",
+      "name": "SAP",
+      "ticker": "SAP",
+      "country": "Германия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/29/2021",
+          "url": "assets/analysis/SAP/SAP_6_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SLB",
+      "name": "Schlumberger",
+      "ticker": "SLB",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/22/2022",
+          "url": "assets/analysis/SLB/SLB_3_22_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SMG",
+      "name": "Scotts Miracle-Gro ",
+      "ticker": "SMG",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SE",
+      "name": "Sea Limited",
+      "ticker": "SE",
+      "country": "Сингапур",
+      "sector": "Коммунальные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SGZH",
+      "name": "Segezha Group",
+      "ticker": "SGZH",
+      "country": "Россия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/26/2021",
+          "url": "assets/analysis/SGZH/SGZH_4_26_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "9/8/2022",
+          "url": "assets/reports/SGZH/SGZH_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "S",
+      "name": "SentinelOne",
+      "ticker": "S",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/25/2022",
+          "url": "assets/analysis/S/S_3_25_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "NOW",
+      "name": "ServiceNow",
+      "ticker": "NOW",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/8/2021",
+          "url": "assets/analysis/NOW/NOW_10_8_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SHOP",
+      "name": "Shopify",
+      "ticker": "SHOP",
+      "country": "Канада",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SIE",
+      "name": "Siemens",
+      "ticker": "SIE",
+      "country": "Германия",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/7/2021",
+          "url": "assets/analysis/SIE/SIE_9_7_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SBNY",
+      "name": "Signature Bank",
+      "ticker": "SBNY",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SI",
+      "name": "Silvergate Capital Corp",
+      "ticker": "SI",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/22/2021",
+          "url": "assets/analysis/SI/SI_7_22_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/20/2022",
+          "url": "assets/reports/SI/SI_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "SPG",
+      "name": "Simon Property Group",
+      "ticker": "SPG",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/20/2021",
+          "url": "assets/analysis/SPG/SPG_7_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SKLZ",
+      "name": "Skillz",
+      "ticker": "SKLZ",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/31/2022",
+          "url": "assets/analysis/SKLZ/SKLZ_1_31_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SWKS",
+      "name": "Skyworks Solutions",
+      "ticker": "SWKS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SMAR",
+      "name": "Smartsheet",
+      "ticker": "SMAR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/20/2021",
+          "url": "assets/analysis/SMAR/SMAR_5_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SWBI",
+      "name": "Smith \u0026 Wesson",
+      "ticker": "SWBI",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SNAP",
+      "name": "Snap",
+      "ticker": "SNAP",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SNOW",
+      "name": "Snowflake",
+      "ticker": "SNOW",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/5/2021",
+          "url": "assets/analysis/SNOW/SNOW_11_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SFTL",
+      "name": "Softline",
+      "ticker": "SFTL",
+      "country": "Россия",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/29/2021",
+          "url": "assets/analysis/SFTL/SFTL_11_29_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SEDG",
+      "name": "Solaredge",
+      "ticker": "SEDG",
+      "country": "Израиль",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SCCO",
+      "name": "Southern Copper",
+      "ticker": "SCCO",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "LUV",
+      "name": "Southwest Airlines",
+      "ticker": "LUV",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/8/2022",
+          "url": "assets/analysis/LUV/LUV_3_8_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SWN",
+      "name": "Southwestern Energy",
+      "ticker": "SWN",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SPOT",
+      "name": "Spotify ",
+      "ticker": "SPOT",
+      "country": "Люксембург",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SQ",
+      "name": "Square",
+      "ticker": "SQ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/30/2021",
+          "url": "assets/analysis/SQ/SQ_5_30_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/28/2022",
+          "url": "assets/reports/SQ/SQ_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "SQSP",
+      "name": "Squarespace",
+      "ticker": "SQSP",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/1/2021",
+          "url": "assets/analysis/SQSP/SQSP_7_1_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SWK",
+      "name": "Stanley Black \u0026 Decker",
+      "ticker": "SWK",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SBUX",
+      "name": "Starbucks",
+      "ticker": "SBUX",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/15/2021",
+          "url": "assets/analysis/SBUX/SBUX_3_15_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/4/2022",
+          "url": "assets/reports/SBUX/SBUX_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "STLD",
+      "name": "Steel Dynamics",
+      "ticker": "STLD",
+      "country": "США",
+      "sector": "Базовые материалы ",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "STLA",
+      "name": "Stellantis N.V.",
+      "ticker": "STLA",
+      "country": "Нидерланды",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/19/2021",
+          "url": "assets/analysis/STLA/STLA_10_19_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "8/29/2022",
+          "url": "assets/reports/STLA/STLA_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "LRN",
+      "name": "Stride (K12)",
+      "ticker": "LRN",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SYK",
+      "name": "Stryker",
+      "ticker": "SYK",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/8/2021",
+          "url": "assets/analysis/SYK/SYK_9_8_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "RUN",
+      "name": "Sunrun",
+      "ticker": "RUN",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/5/2021",
+          "url": "assets/analysis/RUN/RUN_8_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "SIVB ",
+      "name": "SVB Financial",
+      "ticker": "SIVB ",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "SYF",
+      "name": "Synchrony Financial ",
+      "ticker": "SYF",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TMUS",
+      "name": "T-Mobile",
+      "ticker": "TMUS",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/12/2022",
+          "url": "assets/analysis/TMUS/TMUS_4_12_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TROW",
+      "name": "T. Rowe Price",
+      "ticker": "TROW",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/14/2021",
+          "url": "assets/analysis/TROW/TROW_6_14_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/1/2022",
+          "url": "assets/reports/TROW/TROW_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "TTWO",
+      "name": "Take-Two",
+      "ticker": "TTWO",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/17/2022",
+          "url": "assets/analysis/TTWO/TTWO_3_17_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TAK",
+      "name": "Takeda Pharmaceutical",
+      "ticker": "TAK",
+      "country": "Япония",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/21/2021",
+          "url": "assets/analysis/TAK/TAK_9_21_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TGT",
+      "name": "Target",
+      "ticker": "TGT",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/9/2021",
+          "url": "assets/analysis/TGT/TGT_11_9_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TCSG",
+      "name": "TCS Group",
+      "ticker": "TCSG",
+      "country": "Россия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/7/2022",
+          "url": "assets/reports/TCSG/TCSG_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "669",
+      "name": "​​Techtronic Industries",
+      "ticker": "669",
+      "country": "Китай",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TDOC",
+      "name": "Teladoc Health",
+      "ticker": "TDOC",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/30/2022",
+          "url": "assets/analysis/TDOC/TDOC_3_30_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TENB",
+      "name": "Tenable Holdings",
+      "ticker": "TENB",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/18/2021",
+          "url": "assets/analysis/TENB/TENB_6_18_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TCEHY",
+      "name": "Tencent",
+      "ticker": "TCEHY",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "9/6/2022",
+          "url": "assets/reports/TCEHY/TCEHY_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "TDC",
+      "name": "Teradata",
+      "ticker": "TDC",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TER",
+      "name": "Teradyne",
+      "ticker": "TER",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/4/2022",
+          "url": "assets/analysis/TER/TER_4_4_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TSLA",
+      "name": "Tesla",
+      "ticker": "TSLA",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/9/2021",
+          "url": "assets/analysis/TSLA/TSLA_10_9_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/27/2022",
+          "url": "assets/reports/TSLA/TSLA_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "TXN",
+      "name": "Texas Instruments",
+      "ticker": "TXN",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "6/12/2021",
+          "url": "assets/analysis/TXN/TXN_6_12_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "MOS",
+      "name": "The Mosaic Company",
+      "ticker": "MOS",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/23/2021",
+          "url": "assets/analysis/MOS/MOS_8_23_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TTD",
+      "name": "The Trade Desk",
+      "ticker": "TTD",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/30/2021",
+          "url": "assets/analysis/TTD/TTD_7_30_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TRV",
+      "name": "The Travelers",
+      "ticker": "TRV",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TMO",
+      "name": "Thermo Fisher",
+      "ticker": "TMO",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/14/2022",
+          "url": "assets/analysis/TMO/TMO_4_14_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TJX",
+      "name": "TJX Companies",
+      "ticker": "TJX",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/1/2022",
+          "url": "assets/analysis/TJX/TJX_2_1_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TOST",
+      "name": "Toast",
+      "ticker": "TOST",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/28/2021",
+          "url": "assets/analysis/TOST/TOST_9_28_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TTE",
+      "name": "TotalEnergies ",
+      "ticker": "TTE",
+      "country": "Франция",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/29/2022",
+          "url": "assets/reports/TTE/TTE_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "TM",
+      "name": "Toyota",
+      "ticker": "TM",
+      "country": "Япония",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TRSWF",
+      "name": "TransAlta Renewables",
+      "ticker": "TRSWF",
+      "country": "Канада",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TCOM",
+      "name": "Trip.com",
+      "ticker": "TCOM",
+      "country": "Китай",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "TRUP",
+      "name": "Trupanion",
+      "ticker": "TRUP",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/19/2021",
+          "url": "assets/analysis/TRUP/TRUP_2_19_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TSM",
+      "name": "TSMC",
+      "ticker": "TSM",
+      "country": "Тайвань",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/8/2021",
+          "url": "assets/analysis/TSM/TSM_11_8_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/14/2022",
+          "url": "assets/reports/TSM/TSM_q4y21.json"
+        },
+        {
+          "period": "q2y22",
+          "date": "10/26/2022",
+          "url": "assets/reports/TSM/TSM_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "TWLO",
+      "name": "Twilio",
+      "ticker": "TWLO",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/15/2021",
+          "url": "assets/analysis/TWLO/TWLO_11_15_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TWTR",
+      "name": "Twitter",
+      "ticker": "TWTR",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/15/2021",
+          "url": "assets/analysis/TWTR/TWTR_7_15_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "TSN",
+      "name": "Tyson Foods",
+      "ticker": "TSN",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/27/2021",
+          "url": "assets/analysis/TSN/TSN_10_27_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "USB",
+      "name": "U.S. Bancorp",
+      "ticker": "USB",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "UBER",
+      "name": "Uber",
+      "ticker": "UBER",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/15/2021",
+          "url": "assets/analysis/UBER/UBER_1_15_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "PATH",
+      "name": "UiPath",
+      "ticker": "PATH",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "UNP",
+      "name": "Union Pacific",
+      "ticker": "UNP",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/17/2022",
+          "url": "assets/analysis/UNP/UNP_1_17_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "UNH",
+      "name": "United Health",
+      "ticker": "UNH",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/17/2021",
+          "url": "assets/analysis/UNH/UNH_3_17_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/24/2022",
+          "url": "assets/reports/UNH/UNH_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "U",
+      "name": "Unity Software",
+      "ticker": "U",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/19/2021",
+          "url": "assets/analysis/U/U_7_19_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "UPS",
+      "name": "UPS",
+      "ticker": "UPS",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/10/2021",
+          "url": "assets/analysis/UPS/UPS_8_10_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/2/2022",
+          "url": "assets/reports/UPS/UPS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": " Inc.\"",
+      "name": "\"Upstart Holdings",
+      "ticker": " Inc.\"",
+      "country": "США",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "UPWK",
+      "name": "Upwork",
+      "ticker": "UPWK",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/3/2021",
+          "url": "assets/analysis/UPWK/UPWK_5_3_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "VALE",
+      "name": "Vale S.A.",
+      "ticker": "VALE",
+      "country": "Бразилия",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/18/2021",
+          "url": "assets/analysis/VALE/VALE_3_18_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "VLO",
+      "name": "Valero Energy",
+      "ticker": "VLO",
+      "country": "США",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VEEV",
+      "name": "Veeva",
+      "ticker": "VEEV",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VLDR",
+      "name": "Velodyne Lidar",
+      "ticker": "VLDR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "10/11/2021",
+          "url": "assets/analysis/VLDR/VLDR_10_11_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "VEON",
+      "name": "Veon",
+      "ticker": "VEON",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "5/31/2022",
+          "url": "assets/analysis/VEON/VEON_5_31_2022.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "VZ",
+      "name": "Verizon",
+      "ticker": "VZ",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "8/20/2021",
+          "url": "assets/analysis/VZ/VZ_8_20_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q2y22",
+          "date": "9/16/2022",
+          "url": "assets/reports/VZ/VZ_q2y22.json"
+        }
+      ]
+    },
+    {
+      "id": "VRTX",
+      "name": "Vertex",
+      "ticker": "VRTX",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/29/2022",
+          "url": "assets/analysis/VRTX/VRTX_1_29_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/29/2022",
+          "url": "assets/reports/VRTX/VRTX_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "VTRS",
+      "name": "Viatris",
+      "ticker": "VTRS",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VICR",
+      "name": "Vicor",
+      "ticker": "VICR",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VIPS",
+      "name": "Vipshop",
+      "ticker": "VIPS",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/24/2022",
+          "url": "assets/reports/VIPS/VIPS_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "SPCE",
+      "name": "Virgin Galactic ",
+      "ticker": "SPCE",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "VIRT",
+      "name": "Virtu Financial",
+      "ticker": "VIRT",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [
+        {
+          "date": "4/20/2021",
+          "url": "assets/analysis/VIRT/VIRT_4_20_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "V",
+      "name": "Visa",
+      "ticker": "V",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/31/2022",
+          "url": "assets/reports/V/V_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "VKCO",
+      "name": "VK",
+      "ticker": "VKCO",
+      "country": "Россия",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "2/24/2022",
+          "url": "assets/analysis/VKCO/VKCO_2_24_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/8/2022",
+          "url": "assets/reports/VKCO/VKCO_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "VOW3",
+      "name": "Volkswagen",
+      "ticker": "VOW3",
+      "country": "Германия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "3/30/2021",
+          "url": "assets/analysis/VOW3/VOW3_3_30_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/16/2022",
+          "url": "assets/reports/VOW3/VOW3_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "WPC ",
+      "name": "W. P. Carey",
+      "ticker": "WPC ",
+      "country": "США",
+      "sector": "Недвижимость",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WBA",
+      "name": "Walgreens Boots",
+      "ticker": "WBA",
+      "country": "США",
+      "sector": "Здравоохранение",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WMT",
+      "name": "Walmart",
+      "ticker": "WMT",
+      "country": "США",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WBD",
+      "name": "Warner Bros. Discovery",
+      "ticker": "WBD",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "HCC",
+      "name": "Warrior Met Coal",
+      "ticker": "HCC",
+      "country": "США",
+      "sector": "Базовые материалы",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WM",
+      "name": "Waste Management",
+      "ticker": "WM",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "11/22/2021",
+          "url": "assets/analysis/WM/WM_11_22_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "WEC",
+      "name": "WEC Energy Group",
+      "ticker": "WEC",
+      "country": "США",
+      "sector": "Коммунальные услуги",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/5/2021",
+          "url": "assets/analysis/WEC/WEC_7_5_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "WFC",
+      "name": "Wells Fargo",
+      "ticker": "WFC",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "1/18/2022",
+          "url": "assets/reports/WFC/WFC_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "WU",
+      "name": "Western Union",
+      "ticker": "WU",
+      "country": "США",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WEX",
+      "name": "Wex",
+      "ticker": "WEX",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "7/14/2021",
+          "url": "assets/analysis/WEX/WEX_7_14_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "0288",
+      "name": "WH Group ",
+      "ticker": "0288",
+      "country": "Китай",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "WSM",
+      "name": "Williams-Sonoma",
+      "ticker": "WSM",
+      "country": "США",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/6/2021",
+          "url": "assets/analysis/WSM/WSM_1_6_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "WDAY",
+      "name": "Workday",
+      "ticker": "WDAY",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "FIVE",
+      "name": "X5 Retail Group",
+      "ticker": "FIVE",
+      "country": "Россия",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "2/18/2022",
+          "url": "assets/reports/FIVE/FIVE_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "XRX  ",
+      "name": "Xerox",
+      "ticker": "XRX  ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "1810",
+      "name": "Xiaomi",
+      "ticker": "1810",
+      "country": "Китай",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "968",
+      "name": "Xinyi Solar Holdings",
+      "ticker": "968",
+      "country": "Китай",
+      "sector": "Энергетика",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "XP ",
+      "name": "XP ",
+      "ticker": "XP ",
+      "country": "Бразилия",
+      "sector": "Финансовый",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "XPEL",
+      "name": "XPEL",
+      "ticker": "XPEL",
+      "country": "США",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "XPEV",
+      "name": "Xpeng",
+      "ticker": "XPEV",
+      "country": "Китай",
+      "sector": "Циклический потребительский сектор",
+      "companyAnalysisInfo": [
+        {
+          "date": "9/10/2021",
+          "url": "assets/analysis/XPEV/XPEV_9_10_2021.json"
+        }
+      ],
+      "reports": []
+    },
+    {
+      "id": "YUMC",
+      "name": "Yum China Holdings",
+      "ticker": "YUMC",
+      "country": "Китай",
+      "sector": "Консервативный потребительский сектор",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZBRA",
+      "name": "Zebra Technologies",
+      "ticker": "ZBRA",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZG",
+      "name": "Zillow ",
+      "ticker": "ZG",
+      "country": "США",
+      "sector": "Коммуникационные услуги",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZIM",
+      "name": "ZIM Integrated Shipping Services",
+      "ticker": "ZIM",
+      "country": "Израиль",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [
+        {
+          "date": "12/29/2021",
+          "url": "assets/analysis/ZIM/ZIM_12_29_2021.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/14/2022",
+          "url": "assets/reports/ZIM/ZIM_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ZM",
+      "name": "Zoom",
+      "ticker": "ZM",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [
+        {
+          "date": "1/24/2022",
+          "url": "assets/analysis/ZM/ZM_1_24_2022.json"
+        }
+      ],
+      "reports": [
+        {
+          "period": "q4y21",
+          "date": "3/2/2022",
+          "url": "assets/reports/ZM/ZM_q4y21.json"
+        }
+      ]
+    },
+    {
+      "id": "ZI",
+      "name": "Zoominfo",
+      "ticker": "ZI",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZS",
+      "name": "Zscaler",
+      "ticker": "ZS",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZTO",
+      "name": "ZTO Express",
+      "ticker": "ZTO",
+      "country": "Китай",
+      "sector": "Промышленность",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "ZUO ",
+      "name": "Zuora",
+      "ticker": "ZUO ",
+      "country": "США",
+      "sector": "Технологии",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    },
+    {
+      "id": "",
+      "name": "",
+      "ticker": "",
+      "country": "",
+      "sector": "",
+      "companyAnalysisInfo": [],
+      "reports": []
+    }
+  ]
+}

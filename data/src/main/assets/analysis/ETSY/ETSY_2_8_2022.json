@@ -1,0 +1,38 @@
+{
+  "content": [
+    {
+      "emoji": "📌",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938C.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Etsy разбор #ETSY",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " От пиковых значений акции этого представителя электронной коммерции откатились уже на 50%. Что стало причиной? Какова справедливая стоимость компании и есть ли перспективы бизнеса? В чем отличие от Amazon и что же ждет Etsy в этом году?",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Читайте по ссылке:",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-02-08T11:01:03+00:00"
+}
