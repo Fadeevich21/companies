@@ -1,4 +1,4 @@
-package com.example.companies.ui.adapter
+package com.example.companies.ui.adapter.companies
 
 import android.annotation.SuppressLint
 import com.example.companies.databinding.ItemCompanyBinding

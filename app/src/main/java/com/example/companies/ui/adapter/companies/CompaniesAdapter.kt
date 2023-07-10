@@ -1,4 +1,4 @@
-package com.example.companies.ui.adapter
+package com.example.companies.ui.adapter.companies
 
 import androidx.recyclerview.widget.DiffUtil
 import com.example.domain.model.Company

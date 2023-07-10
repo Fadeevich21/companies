@@ -10,8 +10,8 @@ import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.companies.databinding.FragmentAllCompaniesBinding
-import com.example.companies.ui.adapter.CompaniesAdapter
-import com.example.companies.ui.adapter.companyAdapterDelegate
+import com.example.companies.ui.adapter.companies.CompaniesAdapter
+import com.example.companies.ui.adapter.companies.companyAdapterDelegate
 import com.example.companies.ui.decoration.VerticalListItemDecoration
 import com.example.companies.ui.utils.MultiViewModelFactory
 import com.example.companies.utils.appComponent
@@ -28,7 +28,6 @@ class AllCompaniesFragment : Fragment() {
 
     @Inject
     lateinit var viewModelFactory: MultiViewModelFactory
-
     private val viewModel: AllCompaniesViewModel by viewModels {
         viewModelFactory
     }
