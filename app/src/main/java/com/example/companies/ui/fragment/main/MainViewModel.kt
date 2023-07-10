@@ -23,7 +23,8 @@ class MainViewModel @Inject constructor() : ViewModel() {
     }
 
     fun onClickCompanyAnalysisInfoListener() {
-        TODO("Not implemented")
+        val actionNavigate = MainFragmentDirections.actionActionMainToActionCompaniesAnalysisInfo()
+        actionNavigateLiveMutable.value = Event(actionNavigate)
     }
 
     fun onClickFavoriteCompaniesListener() {

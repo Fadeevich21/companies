@@ -16,6 +16,9 @@
         <action
             android:id="@+id/action_action_main_to_action_reports"
             app:destination="@id/action_reports" />
+        <action
+            android:id="@+id/action_action_main_to_action_companies_analysis_info"
+            app:destination="@id/action_companies_analysis_info" />
     </fragment>
 
     <fragment
@@ -30,4 +33,9 @@
         android:label="@string/reports_title"
         tools:layout="@layout/fragment_reports" />
 
+    <fragment
+        android:id="@+id/action_companies_analysis_info"
+        android:name="com.example.companies.ui.fragment.companiesAnalysisInfo.CompaniesAnalysisInfoFragment"
+        android:label="@string/company_analysis_info_title"
+        tools:layout="@layout/fragment_companies_analysis_info" />
 </navigation>
