@@ -14,6 +14,6 @@
     <string name="company_logo">company logo</string>
     <string name="company_name_example">Name</string>
     <string name="company_ticker_example">Ticker</string>
-    <string name="company_reports_number_example">Отчёты: 0</string>
-    <string name="company_analysis_info_example">Аналитические обзоры: 0</string>
+    <string name="company_reports_number">Отчёты: %d</string>
+    <string name="company_analysis_info_number">Аналитические обзоры: %d</string>
 </resources>

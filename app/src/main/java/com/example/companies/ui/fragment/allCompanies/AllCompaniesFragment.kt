@@ -46,8 +46,6 @@ class AllCompaniesFragment : Fragment() {
     ): View {
         _binding = FragmentAllCompaniesBinding.inflate(inflater, container, false)
 
-        adapter.items = viewModel.companiesLive.value
-
         setUpBinding()
         setUpObserves()
 
@@ -77,7 +75,7 @@ class AllCompaniesFragment : Fragment() {
 
     private fun setUpObserveCompanies() {
         viewModel.companiesLive.observe(viewLifecycleOwner) {
-            adapter.notifyItemRangeChanged(0, it.count())
+            adapter.items = it
         }
     }
 

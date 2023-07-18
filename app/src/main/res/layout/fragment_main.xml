@@ -14,7 +14,7 @@
         android:subtitle="@string/all_companies_subtitle"
         android:title="@string/all_companies_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
-        app:cardCornerRadius="17.5dp"
+        app:cardCornerRadius="@dimen/cardCornerRadius"
         app:layout_constraintEnd_toStartOf="@id/reviews"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -26,7 +26,7 @@
         android:subtitle="@string/reviws_subtitle"
         android:title="@string/reviews_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
-        app:cardCornerRadius="17.5dp"
+        app:cardCornerRadius="@dimen/cardCornerRadius"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/all_companies"
         app:layout_constraintTop_toTopOf="parent" />
@@ -39,7 +39,7 @@
         android:subtitle="@string/analysis_reports_subtitle"
         android:title="@string/analysis_reports_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
-        app:cardCornerRadius="17.5dp"
+        app:cardCornerRadius="@dimen/cardCornerRadius"
         app:layout_constraintEnd_toEndOf="@id/all_companies"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/all_companies" />
@@ -52,7 +52,7 @@
         android:subtitle="@string/favorite_companies_subtitle"
         android:title="@string/favorite_companies_title"
         app:cardBackgroundColor="@color/cardview_cardBackgroundColor"
-        app:cardCornerRadius="17.5dp"
+        app:cardCornerRadius="@dimen/cardCornerRadius"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@id/reviews"
         app:layout_constraintTop_toBottomOf="@id/reviews" />
