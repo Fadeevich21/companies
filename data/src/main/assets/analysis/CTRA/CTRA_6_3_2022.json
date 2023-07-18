@@ -1,0 +1,69 @@
+{
+  "content": [
+    {
+      "emoji": "💡",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92A1.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Coterra Energy – дивиденды, байбек и высокие цены на газ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Резюме ",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "1️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/31E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " На рынке энергоносителей ожидается долгосрочный дефицит, который в 2022 усилился из-за геополитической напряжённости.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "2️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/32E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Акционеры получат дополнительную доходность от огромных объёмов FCF.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "3️⃣",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/33E283A3.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": " Компания стремительно укрепляет баланс, улучшает маржинальность и при этом продолжает наращивать инвестиции в бизнес.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔎",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948E.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке:",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-06-03T11:00:06+00:00"
+}

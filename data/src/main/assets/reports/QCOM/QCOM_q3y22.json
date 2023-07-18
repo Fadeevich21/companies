@@ -1,0 +1,88 @@
+{
+  "content": [
+    {
+      "emoji": "🇺🇸",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F87BAF09F87B8.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Qualcomm - последний сильный квартал",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отрасль – полупроводники. Создает полупроводники, программное обеспечение и услуги, связанные с беспроводными технологиями. Компания владеет патентами, критически важными для стандартов мобильной связи 5G, 4G, CDMA2000, TD-SCDMA и WCDMA.",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "#QCOM",
+      "type": "boldText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "data": "Отчетность",
+      "type": "boldText"
+    },
+    {
+      "emoji": "📋",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F938B.png",
+      "type": "emojiImage"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Выручка 11,4 b$ (+0% к прогнозу, +22% г/г) ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Чистая прибыль non-GAAP 3,55 b$ (+22% г/г) ",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "💰",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F92B0.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "EPS non-GAAP 3,13$ (+0% к прогнозу, +23% г/г)",
+      "type": "regularText"
+    },
+    {
+      "type": "lineBreak"
+    },
+    {
+      "emoji": "🔍",
+      "fallbackImageUrl": "https://telegram.org/img/emoji/40/F09F948D.png",
+      "type": "emojiImage"
+    },
+    {
+      "data": "Продолжение по ссылке: ",
+      "type": "boldText"
+    }
+  ],
+  "date": "2022-12-26T08:12:00+00:00"
+}

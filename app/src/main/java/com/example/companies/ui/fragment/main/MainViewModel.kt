@@ -13,7 +13,8 @@ class MainViewModel @Inject constructor() : ViewModel() {
     val actionNavigateLive: LiveData<Event<NavDirections>> = actionNavigateLiveMutable
 
     fun onClickAllCompaniesListener() {
-        TODO("Not implemented")
+        val actionNavigate = MainFragmentDirections.actionActionMainToActionAllCompanies()
+        actionNavigateLiveMutable.value = Event(actionNavigate)
     }
 
     fun onClickReviewsListener() {

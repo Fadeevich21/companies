@@ -6,5 +6,7 @@ import com.example.companies.di.DaggerAppComponent
 
 class App : Application() {
 
-    val appComponent: AppComponent = DaggerAppComponent.create()
+    val appComponent: AppComponent = DaggerAppComponent.builder()
+        .context(this)
+        .build()
 }
